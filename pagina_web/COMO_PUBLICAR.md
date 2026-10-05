@@ -39,3 +39,10 @@ Ninguém precisa ter conta Google nem pedir acesso.
 - O checklist de mala e o número de pessoas ficam salvos no celular de cada amigo.
 - Alternativa avançada com o `clasp` (linha de comando): `clasp create --type webapp`,
   `clasp push` dentro de `pagina_web/` (o `appsscript.json` já está configurado para acesso público) e `clasp deploy`.
+
+## Já publicado
+
+- Link para os amigos: https://script.google.com/macros/s/AKfycbw3QImPNNNc4qbB4f8J43l16lnFbXmMClLJVBQdH2ubPyUr-TzOx6K-BsQIGVlyv2ArXg/exec
+- Projeto no Apps Script: https://script.google.com/d/1ji0pDyUEfCSjiofmKUN2d0zckmmdFm49EYp6_mNyfEGfqWdAMxBWH2eS/edit
+- Atualizar pelo terminal (com `clasp login` feito), mantendo o mesmo link:
+  `cd pagina_web && clasp push -f && clasp update-deployment AKfycbw3QImPNNNc4qbB4f8J43l16lnFbXmMClLJVBQdH2ubPyUr-TzOx6K-BsQIGVlyv2ArXg`
