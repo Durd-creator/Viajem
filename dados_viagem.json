@@ -1,0 +1,4647 @@
+{
+  "geradoEm": "05/10/2026",
+  "guia": "https://claude.ai/artifact/R6AvWF2GYivPxowkUafstc",
+  "pessoas": 2,
+  "taxas": [
+    [
+      "USD",
+      "Dólar americano",
+      5.22,
+      "CURRENCY:USDBRL",
+      "Use dólares novos e sem rasgos."
+    ],
+    [
+      "PEN",
+      "Sol peruano",
+      1.51,
+      "CURRENCY:PENBRL",
+      ""
+    ],
+    [
+      "BOB",
+      "Boliviano",
+      0.433,
+      "CURRENCY:BOBBRL",
+      "Câmbio flutuante desde 29/06/2026 (≈Bs 12 por dólar). Se a cotação ao vivo vier perto de 0,75, ela está desatualizada: desmarque 'Usar ao vivo?'."
+    ],
+    [
+      "CLP",
+      "Peso chileno",
+      0.00529,
+      "CURRENCY:CLPBRL",
+      ""
+    ],
+    [
+      "BRL",
+      "Real",
+      1,
+      "",
+      ""
+    ]
+  ],
+  "dias": [
+    {
+      "n": 1,
+      "pais": "Peru",
+      "titulo": "Chegada e descida para o Vale Sagrado",
+      "dorme": "Ollantaytambo",
+      "alt": 2792,
+      "acordar": "Livre",
+      "saida": "Conforme voo",
+      "transporte": "Voo + transfer privado (≈1h45–2h)",
+      "passos": [
+        [
+          "Chegada",
+          "Aeroporto de Cusco (3.399 m). Saque ou troque só o necessário para hoje."
+        ],
+        [
+          "Logo depois",
+          "Siga direto para Ollantaytambo de transfer combinado com o hotel. Não durma em Cusco hoje: o Vale fica 600 m mais baixo."
+        ],
+        [
+          "Opcional",
+          "Se chegar cedo e estiver bem, pare 20 min no mirante de Chinchero."
+        ],
+        [
+          "Tarde",
+          "Descanso total, chá de coca, água. Volta curta pelas ruelas incas."
+        ],
+        [
+          "Noite",
+          "Jantar leve e cama cedo."
+        ]
+      ],
+      "lugares": [
+        "cuz_airport",
+        "ollanta_plaza"
+      ],
+      "comer": [
+        "chuncho",
+        "albergue"
+      ],
+      "dicas": [
+        "Sem álcool nas primeiras 24–48 h; coma leve e beba bastante água.",
+        "Combine o transfer antes (WhatsApp do hotel). Estimativa: US$45–60 por carro."
+      ],
+      "mudou": "Antes você dormia em Cusco (3.399 m). Agora desce para o Vale (2.792 m): aclimatação mais fácil.",
+      "foto": "ollanta_ruins",
+      "regras": []
+    },
+    {
+      "n": 2,
+      "pais": "Peru",
+      "titulo": "Vale Sagrado: Pisac e Ollantaytambo",
+      "dorme": "Ollantaytambo",
+      "alt": 2792,
+      "acordar": "07:00",
+      "saida": "08:00",
+      "transporte": "Táxi contratado pelo dia",
+      "passos": [
+        [
+          "08:00",
+          "Táxi de Ollantaytambo até Pisac (≈1h15). Combine o preço do dia todo no hotel."
+        ],
+        [
+          "09:15",
+          "Compre o Boleto Turístico Integral (S/130, só dinheiro) na entrada de Pisac. Se só venderem o parcial (S/70), compre o parcial."
+        ],
+        [
+          "09:30",
+          "Ruínas de Pisac: terraços e cidadela (2–2,5 h)."
+        ],
+        [
+          "12:00",
+          "Mercado artesanal de Pisac."
+        ],
+        [
+          "13:00",
+          "Almoço em Pisac ou Urubamba no caminho."
+        ],
+        [
+          "15:00",
+          "Ruínas de Ollantaytambo (Templo do Sol) até o fim da tarde."
+        ]
+      ],
+      "lugares": [
+        "pisac_ruins",
+        "pisac_market",
+        "ollanta_ruins"
+      ],
+      "comer": [
+        "chuncho"
+      ],
+      "dicas": [
+        "Leve soles em notas pequenas: Boleto, banheiros e mercado são em dinheiro.",
+        "Sol forte: chapéu, protetor e 1,5 L de água."
+      ],
+      "mudou": "Antes eram 2 tours saindo de Cusco (dias 3 e 4). Agora tudo sai de Ollantaytambo, sem estrada de ida e volta.",
+      "foto": "pisac_ruins",
+      "regras": [
+        [
+          [
+            0
+          ],
+          "Domingo: o mercado de Pisac está no dia mais cheio."
+        ]
+      ]
+    },
+    {
+      "n": 3,
+      "pais": "Peru",
+      "titulo": "Moray e Maras, depois trem para Águas Calientes",
+      "dorme": "Águas Calientes",
+      "alt": 2040,
+      "acordar": "06:45",
+      "saida": "07:30",
+      "transporte": "Táxi + trem",
+      "passos": [
+        [
+          "07:30",
+          "Táxi Ollantaytambo → Moray (≈1h)."
+        ],
+        [
+          "09:30",
+          "Salineras de Maras (S/20, só dinheiro)."
+        ],
+        [
+          "11:30",
+          "Volta para Ollantaytambo e almoço."
+        ],
+        [
+          "13:30",
+          "Deixe a mala grande no hotel de Ollantaytambo (avise na reserva). Você passa por lá amanhã às 17h."
+        ],
+        [
+          "15:37 ou 16:36",
+          "Trem para Águas Calientes (PeruRail Expedition 15:37 ou Inca Rail Voyager 16:36; ≈1h30). Confira a grade da sua data."
+        ],
+        [
+          "Chegada",
+          "Compre o ônibus Consettur (US$24 ida/volta) no guichê da Av. Hermanos Ayar e veja onde a fila começa."
+        ],
+        [
+          "Noite",
+          "Jantar e cama cedo. Termas opcionais (S/20, até 20:00)."
+        ]
+      ],
+      "lugares": [
+        "moray",
+        "maras",
+        "ollanta_station",
+        "ac_station",
+        "consettur",
+        "ac_springs"
+      ],
+      "comer": [
+        "indio_feliz",
+        "mapacho",
+        "ac_market"
+      ],
+      "dicas": [
+        "Trem: só 1 mochila de até 8 kg nas duas empresas (a regra antiga de 5 kg mudou). Na PeruRail também vale 1 mala de mão de até 12 kg.",
+        "Leve o documento usado na compra do ingresso de Machu Picchu."
+      ],
+      "mudou": "Antes era tour de van saindo de Cusco às 06:45. Agora Moray/Maras ficam a 1 h do hotel.",
+      "foto": "maras",
+      "regras": []
+    },
+    {
+      "n": 4,
+      "pais": "Peru",
+      "titulo": "Machu Picchu e volta para Cusco",
+      "dorme": "Cusco",
+      "alt": 3399,
+      "acordar": "04:00",
+      "saida": "04:30",
+      "transporte": "Ônibus + trem + van",
+      "passos": [
+        [
+          "04:30",
+          "Fila do ônibus na Av. Hermanos Ayar (alta temporada: 04:15). 1º ônibus 05:30."
+        ],
+        [
+          "06:00 / 07:00",
+          "Entrada no horário do ingresso (tolerância ≈30 min). Mostre o mesmo documento da compra."
+        ],
+        [
+          "Entrada",
+          "Guia oficial é obrigatório (até 10 pessoas por guia). Contrate antes ou na porta."
+        ],
+        [
+          "≈2–3 h",
+          "Circuito 2 (clássico). Não há reentrada e o banheiro fica do lado de fora."
+        ],
+        [
+          "11:00",
+          "Ônibus de volta e almoço em Águas Calientes."
+        ],
+        [
+          "15:20",
+          "Trem PeruRail → Ollantaytambo (chega 17:08). Pegue a mala no hotel."
+        ],
+        [
+          "17:30",
+          "Van/colectivo para Cusco (≈1h45–2h). Chegada ≈19:30."
+        ]
+      ],
+      "lugares": [
+        "consettur",
+        "machu_picchu",
+        "ac_station",
+        "ollanta_station"
+      ],
+      "comer": [
+        "ac_market",
+        "indio_feliz"
+      ],
+      "dicas": [
+        "Repelente, capa de chuva e protetor solar. Pela manhã faz frio, à tarde calor.",
+        "Prefira passaporte: o ingresso fica vinculado ao documento usado na compra."
+      ],
+      "mudou": "Mesmo plano, com regras atualizadas: guia obrigatório, ingresso S/163, fila às 04:30.",
+      "foto": "machu_picchu",
+      "regras": []
+    },
+    {
+      "n": 5,
+      "pais": "Peru",
+      "titulo": "Cusco histórico",
+      "dorme": "Cusco",
+      "alt": 3399,
+      "acordar": "08:00",
+      "saida": "09:00",
+      "transporte": "A pé",
+      "passos": [
+        [
+          "09:00",
+          "Plaza de Armas e Qorikancha (≈S/15; abre 08:30)."
+        ],
+        [
+          "11:00",
+          "Catedral (S/40; abre 10:30)."
+        ],
+        [
+          "12:30",
+          "Almoço no Mercado San Pedro (sucos e menu barato; antes das 14h)."
+        ],
+        [
+          "14:30",
+          "Calle Hatun Rumiyoc (pedra dos 12 ângulos) e subida para San Blas."
+        ],
+        [
+          "16:30",
+          "Câmbio na Av. El Sol e saque sem tarifa no Banco de la Nación. Confirme o ônibus para a Bolívia."
+        ],
+        [
+          "19:30",
+          "Jantar em San Blas."
+        ]
+      ],
+      "lugares": [
+        "cusco_plaza",
+        "qorikancha",
+        "cusco_cathedral",
+        "san_pedro_mkt",
+        "twelve_angle",
+        "san_blas",
+        "cambio_elsol",
+        "bn_atm",
+        "cosituc"
+      ],
+      "comer": [
+        "san_pedro_mkt",
+        "pachapapa",
+        "kusikuy",
+        "morena",
+        "campo",
+        "green_point"
+      ],
+      "dicas": [
+        "Se ainda não tem o Boleto Integral, compre no COSITUC (Av. El Sol 103), só em dinheiro.",
+        "Use Uber/Cabify/InDrive à noite em vez de táxi de rua."
+      ],
+      "mudou": "Cusco passou para depois de Machu Picchu, já aclimatado.",
+      "foto": "qorikancha",
+      "regras": [
+        [
+          [
+            0
+          ],
+          "Domingo: Kusikuy fecha e o Qorikancha só abre à tarde."
+        ]
+      ]
+    },
+    {
+      "n": 6,
+      "pais": "Peru",
+      "titulo": "Sacsayhuamán e ônibus noturno para a Bolívia",
+      "dorme": "Ônibus noturno",
+      "alt": null,
+      "acordar": "08:00",
+      "saida": "09:00",
+      "transporte": "Táxi + ônibus noturno (21:30/22:30)",
+      "passos": [
+        [
+          "09:00",
+          "Táxi até Tambomachay (≈15 min) e desça visitando Puka Pukara, Q'enqo e Sacsayhuamán (tudo no Boleto)."
+        ],
+        [
+          "12:00",
+          "Mirante do Cristo Blanco e descida a pé para San Blas."
+        ],
+        [
+          "13:00",
+          "Almoço, check-out e malas no hotel."
+        ],
+        [
+          "Tarde",
+          "Compras (lã de alpaca), descanso. Guarde alguns dólares para a Bolívia."
+        ],
+        [
+          "21:30",
+          "Bolivia Hop (ponto próprio, veja o voucher) ou ≈22:30 ônibus direto no Terminal Terrestre."
+        ]
+      ],
+      "lugares": [
+        "tambomachay",
+        "pukapukara",
+        "qenqo",
+        "sacsay",
+        "cristo_blanco",
+        "cusco_terminal"
+      ],
+      "comer": [
+        "chicha",
+        "cicciolina"
+      ],
+      "dicas": [
+        "Montanha Colorida (S/25, sai 03:00) só se trocar com o Dia 5: no mesmo dia do ônibus noturno é cansativo demais.",
+        "Leve no ônibus: água, lanche, casaco, documento e o certificado de febre amarela à mão."
+      ],
+      "mudou": "Antes: ônibus diurno 06:30 → Copacabana 17:00, que não é uma linha direta confiável (de dia é preciso dormir em Puno). Agora o ônibus noturno economiza 1 diária e dá uma tarde inteira em Copacabana.",
+      "foto": "sacsay",
+      "regras": []
+    },
+    {
+      "n": 7,
+      "pais": "Bolívia",
+      "titulo": "Fronteira e tarde em Copacabana",
+      "dorme": "Copacabana",
+      "alt": 3840,
+      "acordar": "05:00",
+      "saida": "08:00 (Puno)",
+      "transporte": "Ônibus + fronteira a pé",
+      "passos": [
+        [
+          "05:00",
+          "Chegada em Puno (Bolivia Hop troca de ônibus; saída 08:00)."
+        ],
+        [
+          "≈11:00",
+          "Fronteira Kasani: saída do Peru e entrada na Bolívia. Mostre RG/passaporte e o certificado de febre amarela."
+        ],
+        [
+          "Fronteira",
+          "GUARDE o comprovante de entrada boliviano: ele é exigido na saída (multa diária se perder)."
+        ],
+        [
+          "Relógio",
+          "Adiante 1 hora (Bolívia UTC−4)."
+        ],
+        [
+          "≈13:30",
+          "Copacabana (3.840 m). Almoço de truta na orla."
+        ],
+        [
+          "15:00",
+          "Basílica. Compre o barco de amanhã no porto e o ônibus para La Paz na Plaza Sucre."
+        ],
+        [
+          "Fim da tarde",
+          "Pôr do sol no Cerro Calvario (subida forte, vá devagar)."
+        ]
+      ],
+      "lugares": [
+        "kasani",
+        "copa_basilica",
+        "copa_port",
+        "plaza_sucre",
+        "cerro_calvario"
+      ],
+      "comer": [
+        "copa_kiosks",
+        "la_cupula"
+      ],
+      "dicas": [
+        "Troque uns US$ por bolivianos na fronteira ou em Copacabana: barco, taxas e ônibus são em dinheiro (≈Bs 300).",
+        "Antes de cruzar, veja bloqueios em transitabilidad.abc.gob.bo."
+      ],
+      "mudou": "Dia ganho com o ônibus noturno: a chegada passa de 17:00 para ≈13:30.",
+      "foto": "copa_basilica",
+      "regras": []
+    },
+    {
+      "n": 8,
+      "pais": "Bolívia",
+      "titulo": "Isla del Sol e ônibus para La Paz",
+      "dorme": "La Paz",
+      "alt": 3650,
+      "acordar": "07:00",
+      "saida": "08:30",
+      "transporte": "Barco + ônibus (≈4 h)",
+      "passos": [
+        [
+          "08:30",
+          "Barco para Yumani, lado sul (≈1h30). O acesso ao lado norte é disputado: pergunte no porto."
+        ],
+        [
+          "10:00",
+          "Escadaria e Fonte do Inca, trilhas com vista para a Cordillera Real. Taxa comunitária Bs 10–20 por posto."
+        ],
+        [
+          "≈15:30",
+          "Barco de volta (confirme o horário ao comprar)."
+        ],
+        [
+          "18:00",
+          "Ônibus para La Paz. Em Tiquina você desce e cruza de lancha (Bs 2)."
+        ],
+        [
+          "≈22:00",
+          "Chegada em La Paz. Táxi pelo app Yango até o hotel."
+        ]
+      ],
+      "lugares": [
+        "copa_port",
+        "yumani",
+        "escalera_inca",
+        "plaza_sucre",
+        "tiquina"
+      ],
+      "comer": [
+        "copa_kiosks"
+      ],
+      "dicas": [
+        "Na ilha a altitude passa de 4.000 m: suba devagar.",
+        "Pergunte no guichê se a travessia de Tiquina funciona no horário do seu ônibus (há relatos de fechamento às 18:30)."
+      ],
+      "mudou": "Mesmo plano, com aviso sobre o lado norte da ilha e Tiquina.",
+      "foto": "yumani",
+      "regras": []
+    },
+    {
+      "n": 9,
+      "pais": "Bolívia",
+      "titulo": "La Paz pelo teleférico e ônibus para Uyuni",
+      "dorme": "Ônibus noturno",
+      "alt": null,
+      "acordar": "08:00",
+      "saida": "09:00",
+      "transporte": "Teleférico + ônibus noturno 21:00",
+      "passos": [
+        [
+          "09:00",
+          "Mi Teleférico: Linha Vermelha até 16 de Julio (El Alto, 4.061 m) → Prateada → Amarela descendo até Sopocachi (≈Bs 7)."
+        ],
+        [
+          "Qui ou dom",
+          "Feria 16 de Julio em El Alto, uma das maiores feiras da América do Sul."
+        ],
+        [
+          "12:30",
+          "Almoço no Popular (seg–sáb, reserve) ou no Mercado Lanza."
+        ],
+        [
+          "14:30",
+          "San Francisco, Mercado das Bruxas, Sagárnaga, Plaza Murillo e Calle Jaén."
+        ],
+        [
+          "17:00",
+          "Saque bolivianos para o Uyuni: taxas ≈Bs 250–300 + extras. No tour não há caixas."
+        ],
+        [
+          "20:30",
+          "Todo Turismo (Pasaje Kramer 710). Saída 21:00, chegada ≈07:00. Jantar e café inclusos."
+        ]
+      ],
+      "lugares": [
+        "lp_central",
+        "lp_16julio",
+        "lp_mirador",
+        "san_francisco",
+        "brujas",
+        "sagarnaga",
+        "plaza_murillo",
+        "calle_jaen",
+        "todo_lp"
+      ],
+      "comer": [
+        "popular",
+        "mercado_lanza",
+        "saltena",
+        "cafe_mundo"
+      ],
+      "dicas": [
+        "Quer a Estrada da Morte (US$80–140), Tiwanaku ou a luta de cholitas (domingo)? Inclua 1 dia extra aqui.",
+        "Cuidado com a carteira no teleférico e nas feiras."
+      ],
+      "mudou": "La Paz ficou com 1 dia em vez de 2 (o dia foi para Cusco). Todo Turismo sai às 21:00 do escritório próprio, não do terminal.",
+      "foto": "lp_central",
+      "regras": [
+        [
+          [
+            4,
+            0
+          ],
+          "Hoje tem Feria 16 de Julio em El Alto (estação 16 de Julio)."
+        ],
+        [
+          [
+            0
+          ],
+          "Domingo: Popular fecha. Há luta de cholitas às 16:00 em El Alto, mas o ônibus sai às 21:00."
+        ]
+      ]
+    },
+    {
+      "n": 10,
+      "pais": "Bolívia",
+      "titulo": "Tour Uyuni, dia 1: o Salar",
+      "dorme": "Hotel de sal",
+      "alt": 3660,
+      "acordar": "06:30",
+      "saida": "10:30",
+      "transporte": "Jipe 4x4",
+      "passos": [
+        [
+          "≈07:00",
+          "Chegada em Uyuni (pode fazer −10 °C). Café no Tika ou na Av. Arce."
+        ],
+        [
+          "09:30",
+          "Agência: confirme transfer para San Pedro incluído, saco de dormir, idioma do guia e horário na fronteira."
+        ],
+        [
+          "10:30",
+          "Cemitério de Trens → Colchani → Salar."
+        ],
+        [
+          "Tarde",
+          "Isla Incahuasi (Bs 30), fotos de perspectiva e pôr do sol no salar."
+        ]
+      ],
+      "lugares": [
+        "todo_uyuni",
+        "cordillera",
+        "red_planet",
+        "quechua",
+        "cemetery",
+        "colchani",
+        "incahuasi"
+      ],
+      "comer": [
+        "tika"
+      ],
+      "dicas": [
+        "Óculos escuros polarizados são obrigatórios no sal.",
+        "Dez–mar: efeito espelho, mas a Incahuasi pode ficar inacessível."
+      ],
+      "mudou": "Igual ao seu plano.",
+      "foto": "salar",
+      "regras": [
+        [
+          [
+            2
+          ],
+          "Terça: Minuteman fecha."
+        ]
+      ]
+    },
+    {
+      "n": 11,
+      "pais": "Bolívia",
+      "titulo": "Tour Uyuni, dia 2: lagunas e Laguna Colorada",
+      "dorme": "Refúgio (Huayllajara)",
+      "alt": 4300,
+      "acordar": "06:30",
+      "saida": "07:30",
+      "transporte": "Jipe 4x4",
+      "passos": [
+        [
+          "Manhã",
+          "Mirante do vulcão Ollagüe e lagunas altiplânicas com flamingos."
+        ],
+        [
+          "Portaria",
+          "Reserva Eduardo Avaroa: Bs 150, só dinheiro."
+        ],
+        [
+          "Tarde",
+          "Desierto de Siloli, Árbol de Piedra e Laguna Colorada (4.278 m)."
+        ],
+        [
+          "Noite",
+          "Refúgio a ≈4.300 m: frio abaixo de zero. Banho quente Bs 10 se houver."
+        ]
+      ],
+      "lugares": [
+        "arbol_piedra",
+        "laguna_colorada"
+      ],
+      "comer": [],
+      "dicas": [
+        "Durma com segunda pele, gorro e meias; alugue saco de dormir (≈Bs 30/dia).",
+        "Dor de cabeça forte, vômito ou falta de ar em repouso: avise o guia na hora."
+      ],
+      "mudou": "Igual ao seu plano.",
+      "foto": "laguna_colorada",
+      "regras": []
+    },
+    {
+      "n": 12,
+      "pais": "Chile",
+      "titulo": "Sol de Mañana, fronteira e chegada a San Pedro",
+      "dorme": "San Pedro de Atacama",
+      "alt": 2407,
+      "acordar": "04:30",
+      "saida": "05:00",
+      "transporte": "Jipe + van chilena",
+      "passos": [
+        [
+          "05:00",
+          "Gêiseres Sol de Mañana (≈4.900 m) ao amanhecer."
+        ],
+        [
+          "07:00",
+          "Termas de Polques (Bs 6–30), Deserto de Dalí e Laguna Verde."
+        ],
+        [
+          "≈10:00",
+          "Hito Cajón: saída da Bolívia (entregue o comprovante de entrada; às vezes cobram ≈Bs 15). Troque para a van chilena."
+        ],
+        [
+          "Controle",
+          "Complexo chileno Hito Cajón: SAG (bagagem revistada) e PDI. Relógio +1 h (set–abr)."
+        ],
+        [
+          "≈13:00",
+          "San Pedro (2.407 m). Check-in e almoço."
+        ],
+        [
+          "Tarde",
+          "Dinheiro, câmbio e reservas na Caracoles. Compre online o Valle de la Luna de amanhã."
+        ]
+      ],
+      "lugares": [
+        "sol_manana",
+        "polques",
+        "laguna_verde",
+        "hito_cajon",
+        "caracoles",
+        "bci1",
+        "bancoestado",
+        "llamita",
+        "atacama_magic"
+      ],
+      "comer": [
+        "delicias",
+        "picada"
+      ],
+      "dicas": [
+        "NÃO entre no Chile com coca (folha, chá ou bala), frutas, carnes, queijos, mel ou sementes. Declare tudo de origem animal ou vegetal: multa alta.",
+        "Declaração SAG: online em ingresoachile.cl se tiver sinal, senão em papel na fronteira."
+      ],
+      "mudou": "Mesmo plano, com regras de fronteira e fuso horário.",
+      "foto": "sol_manana",
+      "regras": []
+    },
+    {
+      "n": 13,
+      "pais": "Chile",
+      "titulo": "Manhã livre e Valle de la Luna",
+      "dorme": "San Pedro de Atacama",
+      "alt": 2407,
+      "acordar": "08:30",
+      "saida": "15:30",
+      "transporte": "Bike + van de agência",
+      "passos": [
+        [
+          "Manhã",
+          "Descanso, lavanderia. Opcional: bike até o Pukará de Quitor (3 km, ≈CLP 4.000) e Igreja de San Pedro."
+        ],
+        [
+          "15:30",
+          "Tour Valle de la Luna com pôr do sol (volta ≈20:30)."
+        ],
+        [
+          "Noite",
+          "Jantar no Adobe ou no Ckunna."
+        ]
+      ],
+      "lugares": [
+        "pukara",
+        "iglesia_spa",
+        "valle_luna"
+      ],
+      "comer": [
+        "adobe",
+        "ckunna",
+        "roots"
+      ],
+      "dicas": [
+        "O vale fecha em alguns dias (ex.: terças de outubro/2026). Confira em valledelaluna.com.",
+        "O mirante Ckari está fechado desde maio/2026; as agências usam outros pontos para o pôr do sol."
+      ],
+      "mudou": "Igual ao seu plano.",
+      "foto": "valle_luna",
+      "regras": [
+        [
+          [
+            2
+          ],
+          "Terça: o Valle de la Luna fechou em todas as terças de out/2026. Confira o site e troque com o Dia 15 se preciso."
+        ],
+        [
+          [
+            0,
+            1
+          ],
+          "Ckunna fecha domingo e segunda."
+        ]
+      ]
+    },
+    {
+      "n": 14,
+      "pais": "Chile",
+      "titulo": "Piedras Rojas e noite de estrelas",
+      "dorme": "San Pedro de Atacama",
+      "alt": 2407,
+      "acordar": "05:30",
+      "saida": "06:00",
+      "transporte": "Van de agência",
+      "passos": [
+        [
+          "06:00",
+          "Laguna Chaxa (flamingos), Lagunas Miscanti e Miñiques, Piedras Rojas (até ≈4.500 m)."
+        ],
+        [
+          "≈17:30",
+          "Volta e descanso."
+        ],
+        [
+          "21:00",
+          "Tour astronômico (SPACE, Ahlarkapin ou Atacama Desert Stargazing)."
+        ]
+      ],
+      "lugares": [
+        "chaxa",
+        "miscanti",
+        "piedras_rojas",
+        "space",
+        "ahlarkapin"
+      ],
+      "comer": [
+        "charrua",
+        "carritos"
+      ],
+      "dicas": [
+        "Alternativa: Gêiseres del Tatio (04:30–12:30). Só vale se quiser gêiseres maiores: você viu Sol de Mañana há 2 dias.",
+        "Marque a astronomia perto da lua nova; perto da lua cheia muitas agências não operam."
+      ],
+      "mudou": "Tatio trocado por Piedras Rojas para não repetir gêiseres e ver uma paisagem nova.",
+      "foto": "miscanti",
+      "regras": []
+    },
+    {
+      "n": 15,
+      "pais": "Chile",
+      "titulo": "Manhã de folga e Lagunas de Baltinache",
+      "dorme": "San Pedro de Atacama",
+      "alt": 2407,
+      "acordar": "08:30",
+      "saida": "14:00",
+      "transporte": "Van de agência",
+      "passos": [
+        [
+          "Manhã",
+          "Livre: compras, descanso. É a sua margem se a Bolívia atrasar."
+        ],
+        [
+          "14:00",
+          "Lagunas Escondidas de Baltinache (entrada CLP 6.000–12.000 em dinheiro). Volta ≈19:00."
+        ],
+        [
+          "Noite",
+          "Jantar de despedida."
+        ]
+      ],
+      "lugares": [
+        "baltinache",
+        "cejar",
+        "tebinquinche",
+        "arcoiris"
+      ],
+      "comer": [
+        "adobe",
+        "delicias",
+        "babalu"
+      ],
+      "dicas": [
+        "Leve roupa de banho, chinelo, toalha e água doce para tirar o sal.",
+        "Alternativas: Laguna Cejar + pôr do sol na Tebinquinche, ou Valle del Arcoíris pela manhã."
+      ],
+      "mudou": "Baltinache passou para a tarde, deixando a manhã como folga.",
+      "foto": "baltinache",
+      "regras": [
+        [
+          [
+            3
+          ],
+          "Quarta: La Picada del Indio fecha."
+        ]
+      ]
+    },
+    {
+      "n": 16,
+      "pais": "Chile",
+      "titulo": "San Pedro → Calama → Santiago → Brasil",
+      "dorme": "Casa",
+      "alt": null,
+      "acordar": "Conforme voo",
+      "saida": "3–3,5 h antes do voo",
+      "transporte": "Transfer compartilhado + voos",
+      "passos": [
+        [
+          "Saída",
+          "Transfer compartilhado (CLP 17–22 mil) pega no hotel 3–3,5 h antes do voo. Estrada ≈1h15–1h30."
+        ],
+        [
+          "Calama",
+          "Aeroporto El Loa (CJC) só tem voos domésticos: voo para Santiago (≈2h10)."
+        ],
+        [
+          "Santiago",
+          "Imigração de saída. Com bilhetes separados, despache de novo a mala: deixe 3–4 h de conexão."
+        ]
+      ],
+      "lugares": [
+        "atacama_infinity",
+        "cjc"
+      ],
+      "comer": [
+        "roots"
+      ],
+      "dicas": [
+        "Prefira voo saindo de Calama à tarde.",
+        "Transvip tem reclamações de atrasos em 2026; Nomades, GreatChile e Atacama Infinity são opções."
+      ],
+      "mudou": "Avisos novos: não há voo direto de Calama para o Brasil.",
+      "foto": "licancabur",
+      "regras": []
+    }
+  ],
+  "lugares": [
+    {
+      "id": "cuz_airport",
+      "nome": "Aeroporto de Cusco (CUZ)",
+      "cat": "Transporte",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Aeroporto Alejandro Velasco Astete",
+      "info": "Uber, Cabify e InDrive funcionam aqui. App até o centro ≈ S/12–25; táxi do balcão S/35–55.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Alejandro+Velasco+Astete+Cusco",
+      "preco": "App até o centro S/12–25; táxi do balcão S/35–55",
+      "moeda": "PEN",
+      "min": 12,
+      "max": 55,
+      "est": false,
+      "dias": "1"
+    },
+    {
+      "id": "ollanta_station",
+      "nome": "Estação de trem de Ollantaytambo",
+      "cat": "Transporte",
+      "cidade": "Ollantaytambo",
+      "pais": "Peru",
+      "end": "Av. Ferrocarril",
+      "info": "Trens PeruRail e Inca Rail. Vans/colectivos para Cusco esperam na saída.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+de+tren+Ollantaytambo",
+      "preco": "Trem US$55–90 por trecho",
+      "moeda": "USD",
+      "min": 55,
+      "max": 90,
+      "est": false,
+      "dias": "3, 4"
+    },
+    {
+      "id": "ollanta_plaza",
+      "nome": "Plaza de Armas de Ollantaytambo",
+      "cat": "Atração",
+      "cidade": "Ollantaytambo",
+      "pais": "Peru",
+      "end": "Centro",
+      "info": "Ruas incas originais em volta (bairro Qosqo Ayllu).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Armas+Ollantaytambo",
+      "preco": "Grátis",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "1"
+    },
+    {
+      "id": "ollanta_ruins",
+      "nome": "Ruínas de Ollantaytambo (Templo do Sol)",
+      "cat": "Atração",
+      "cidade": "Ollantaytambo",
+      "pais": "Peru",
+      "end": "Parque Arqueológico",
+      "info": "Incluído no Boleto Turístico. Muita escada; fim de tarde costuma ser mais tranquilo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parque+Arqueol%C3%B3gico+de+Ollantaytambo",
+      "preco": "Incluído no Boleto Turístico (S/130 vale 16 sítios)",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "2"
+    },
+    {
+      "id": "chuncho",
+      "nome": "Chuncho",
+      "cat": "Comer",
+      "cidade": "Ollantaytambo",
+      "pais": "Peru",
+      "end": "Plaza de Armas",
+      "info": "Cozinha andina com produtos do Vale.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuncho+restaurante+Ollantaytambo",
+      "preco": "≈S/50–90 por pessoa",
+      "moeda": "PEN",
+      "min": 50,
+      "max": 90,
+      "est": true,
+      "dias": "1, 2"
+    },
+    {
+      "id": "albergue",
+      "nome": "El Albergue (café da estação)",
+      "cat": "Comer",
+      "cidade": "Ollantaytambo",
+      "pais": "Peru",
+      "end": "Av. Ferrocarril, dentro da estação",
+      "info": "Ótimo para esperar o trem.",
+      "url": "https://www.google.com/maps/search/?api=1&query=El+Albergue+Ollantaytambo",
+      "preco": "Café ≈S/15–35; refeição ≈S/50–90",
+      "moeda": "PEN",
+      "min": 15,
+      "max": 90,
+      "est": true,
+      "dias": "1"
+    },
+    {
+      "id": "pisac_ruins",
+      "nome": "Ruínas de Pisac",
+      "cat": "Atração",
+      "cidade": "Pisac",
+      "pais": "Peru",
+      "end": "Parque Arqueológico de Pisac",
+      "info": "Incluído no Boleto Turístico. Terraços e cidadela; tênis de trilha.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parque+Arqueol%C3%B3gico+de+Pisac",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "2"
+    },
+    {
+      "id": "pisac_market",
+      "nome": "Mercado artesanal de Pisac",
+      "cat": "Compras",
+      "cidade": "Pisac",
+      "pais": "Peru",
+      "end": "Plaza de Pisac",
+      "info": "Funciona todo dia; maior aos domingos. Pechinche.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercado+artesanal+de+Pisac",
+      "preco": "Entrada grátis; artesanato a partir de ≈S/10",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "2"
+    },
+    {
+      "id": "moray",
+      "nome": "Moray (terraços circulares)",
+      "cat": "Atração",
+      "cidade": "Maras",
+      "pais": "Peru",
+      "end": "Moray, distrito de Maras",
+      "info": "Incluído no Boleto Turístico.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moray+Cusco+Peru",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "3"
+    },
+    {
+      "id": "maras",
+      "nome": "Salineras de Maras",
+      "cat": "Atração",
+      "cidade": "Maras",
+      "pais": "Peru",
+      "end": "Salineras de Maras",
+      "info": "S/20, só dinheiro. 07:00–17:00. Não incluído no Boleto.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salineras+de+Maras",
+      "preco": "S/20 (só dinheiro)",
+      "moeda": "PEN",
+      "min": 20,
+      "max": 20,
+      "est": false,
+      "dias": "3"
+    },
+    {
+      "id": "ac_station",
+      "nome": "Estação de trem Machu Picchu (Águas Calientes)",
+      "cat": "Transporte",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Ao lado do mercado de artesanato",
+      "info": "Guarda-volumes gratuito da PeruRail.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+de+tren+Machu+Picchu+Pueblo+Aguas+Calientes",
+      "preco": "Guarda-volumes grátis (PeruRail)",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "3, 4"
+    },
+    {
+      "id": "consettur",
+      "nome": "Ônibus para Machu Picchu (guichê e fila)",
+      "cat": "Transporte",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Av. Hermanos Ayar s/n",
+      "info": "US$24 ida/volta. 1º ônibus 05:30. Compre na véspera (ou comprar.consettur.com).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Consettur+Av.+Hermanos+Ayar+Aguas+Calientes",
+      "preco": "US$24 ida e volta (US$12 por trecho)",
+      "moeda": "USD",
+      "min": 24,
+      "max": 24,
+      "est": false,
+      "dias": "3, 4"
+    },
+    {
+      "id": "ac_tickets",
+      "nome": "Centro Cultural (venda presencial de ingressos)",
+      "cat": "Ingressos",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Av. Pachacútec s/n",
+      "info": "Plano B se não tiver ingresso: vende 1.000/dia para o dia seguinte a partir das 14:00. Filas longas.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Centro+Cultural+Machupicchu+Aguas+Calientes",
+      "preco": "Ingresso S/163 (Circuito 2)",
+      "moeda": "PEN",
+      "min": 163,
+      "max": 163,
+      "est": false,
+      "dias": "opcional"
+    },
+    {
+      "id": "ac_springs",
+      "nome": "Banhos termais",
+      "cat": "Atração",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Final da Av. Pachacútec",
+      "info": "05:00–20:00, S/20.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ba%C3%B1os+Termales+Aguas+Calientes",
+      "preco": "S/20",
+      "moeda": "PEN",
+      "min": 20,
+      "max": 20,
+      "est": false,
+      "dias": "3"
+    },
+    {
+      "id": "indio_feliz",
+      "nome": "Indio Feliz",
+      "cat": "Comer",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Pje. Lloque Yupanqui 103",
+      "info": "11:30–22:00. Clássico franco-peruano.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indio+Feliz+Aguas+Calientes",
+      "preco": "≈S/60–110 por pessoa",
+      "moeda": "PEN",
+      "min": 60,
+      "max": 110,
+      "est": true,
+      "dias": "3, 4"
+    },
+    {
+      "id": "mapacho",
+      "nome": "Mapacho Craft Beer",
+      "cat": "Comer",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Av. Imperio de los Incas 614",
+      "info": "Cervejas artesanais à beira do trilho.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mapacho+Craft+Beer+Aguas+Calientes",
+      "preco": "≈S/40–70 por pessoa",
+      "moeda": "PEN",
+      "min": 40,
+      "max": 70,
+      "est": true,
+      "dias": "3"
+    },
+    {
+      "id": "ac_market",
+      "nome": "Mercado municipal",
+      "cat": "Comer",
+      "cidade": "Águas Calientes",
+      "pais": "Peru",
+      "end": "Perto da praça principal",
+      "info": "Menu do almoço barato.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercado+Central+Aguas+Calientes",
+      "preco": "Menu ≈S/10–20",
+      "moeda": "PEN",
+      "min": 10,
+      "max": 20,
+      "est": true,
+      "dias": "3, 4"
+    },
+    {
+      "id": "machu_picchu",
+      "nome": "Machu Picchu",
+      "cat": "Atração",
+      "cidade": "Machu Picchu",
+      "pais": "Peru",
+      "end": "Santuário Histórico",
+      "info": "Circuito 2: S/163. Guia obrigatório. Sem reentrada. Banheiro só do lado de fora.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Machu+Picchu+Peru",
+      "preco": "S/163 + guia ≈S/50–80",
+      "moeda": "PEN",
+      "min": 213,
+      "max": 243,
+      "est": false,
+      "dias": "4"
+    },
+    {
+      "id": "cusco_plaza",
+      "nome": "Plaza de Armas de Cusco",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Centro histórico",
+      "info": "Ponto de referência para tudo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Armas+Cusco",
+      "preco": "Grátis",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "cusco_cathedral",
+      "nome": "Catedral de Cusco",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plaza de Armas",
+      "info": "S/40 (ou S/50 com San Cristóbal e museu). 10:30–17:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Catedral+del+Cusco",
+      "preco": "S/40 (ou S/50 circuito religioso)",
+      "moeda": "PEN",
+      "min": 40,
+      "max": 50,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "qorikancha",
+      "nome": "Qorikancha (Templo do Sol)",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plazoleta Santo Domingo / Av. El Sol",
+      "info": "≈S/15. Seg–sáb 08:30–17:30; domingo só à tarde.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Qorikancha+Cusco",
+      "preco": "≈S/15",
+      "moeda": "PEN",
+      "min": 15,
+      "max": 15,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "san_pedro_mkt",
+      "nome": "Mercado Central de San Pedro",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plaza San Pedro (5 quadras da Plaza de Armas)",
+      "info": "Suco S/2–3, menu S/8–12. Só dinheiro. Vá antes das 14h.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercado+Central+de+San+Pedro+Cusco",
+      "preco": "Suco S/2–3; menu S/8–12",
+      "moeda": "PEN",
+      "min": 8,
+      "max": 12,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "twelve_angle",
+      "nome": "Pedra dos 12 ângulos",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Calle Hatun Rumiyoc",
+      "info": "No caminho para San Blas.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piedra+de+los+12+%C3%A1ngulos+Cusco",
+      "preco": "Grátis",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "san_blas",
+      "nome": "Bairro de San Blas",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plazoleta San Blas",
+      "info": "Ateliês, ruas de pedra e mirante.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plazoleta+San+Blas+Cusco",
+      "preco": "Grátis",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "sacsay",
+      "nome": "Sacsayhuamán",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Acima do centro",
+      "info": "Incluído no Boleto Turístico.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sacsayhuam%C3%A1n+Cusco",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "cristo_blanco",
+      "nome": "Cristo Blanco (mirante)",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Ao lado de Sacsayhuamán",
+      "info": "Grátis. Vista da cidade toda.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cristo+Blanco+Cusco",
+      "preco": "Grátis",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "qenqo",
+      "nome": "Q'enqo",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Estrada de Pisac",
+      "info": "Incluído no Boleto Turístico.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Qenqo+Cusco",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "pukapukara",
+      "nome": "Puka Pukara",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Estrada de Pisac",
+      "info": "Incluído no Boleto Turístico.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Puka+Pukara+Cusco",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "tambomachay",
+      "nome": "Tambomachay",
+      "cat": "Atração",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Estrada de Pisac",
+      "info": "Comece aqui (o mais alto) e desça a pé.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tambomachay+Cusco",
+      "preco": "Incluído no Boleto Turístico",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "cosituc",
+      "nome": "COSITUC (Boleto Turístico)",
+      "cat": "Ingressos",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Av. El Sol 103 (Galerías Turísticas)",
+      "info": "Integral S/130, só dinheiro. ≈08:00–18:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=COSITUC+Av.+El+Sol+103+Cusco",
+      "preco": "Boleto integral S/130; parcial S/70",
+      "moeda": "PEN",
+      "min": 70,
+      "max": 130,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "cambio_elsol",
+      "nome": "Casas de câmbio Los Amigos / Multi Dólar",
+      "cat": "Dinheiro",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Av. El Sol 320",
+      "info": "Também Piano Soncco (El Sol 310A) e LAC Dólar (El Sol 150). Leve dólar; real é incerto.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.+El+Sol+320+Cusco",
+      "preco": "Sem taxa; compare a cotação",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "bn_atm",
+      "nome": "Banco de la Nación (saque sem tarifa local)",
+      "cat": "Dinheiro",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Av. El Sol (2ª quadra)",
+      "info": "Rede MultiRed: tarifa S/0, máx. S/400 por saque. Outros bancos cobram S/18–36.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Banco+de+la+Naci%C3%B3n+Av.+El+Sol+Cusco",
+      "preco": "Tarifa S/0 (máx. S/400 por saque)",
+      "moeda": "PEN",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "cusco_terminal",
+      "nome": "Terminal Terrestre de Cusco",
+      "cat": "Transporte",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Av. Vía de Evitamiento 429",
+      "info": "Ônibus noturnos diretos para Copacabana (~22:30).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terminal+Terrestre+Cusco",
+      "preco": "Ônibus para Copacabana US$33–46",
+      "moeda": "USD",
+      "min": 33,
+      "max": 46,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "pachapapa",
+      "nome": "Pachapapa",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plazoleta San Blas 120",
+      "info": "Comida cusquenha em forno a lenha. Cuy por encomenda.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pachapapa+Cusco",
+      "preco": "≈S/60–100 por pessoa",
+      "moeda": "PEN",
+      "min": 60,
+      "max": 100,
+      "est": true,
+      "dias": "5"
+    },
+    {
+      "id": "kusikuy",
+      "nome": "Kusikuy",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Calle Amargura 140",
+      "info": "Especialista em cuy. Seg–sáb, só dinheiro; o cuy leva ~50 min.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kusikuy+Cusco",
+      "preco": "Cuy ≈S/80–120",
+      "moeda": "PEN",
+      "min": 80,
+      "max": 120,
+      "est": true,
+      "dias": "5"
+    },
+    {
+      "id": "morena",
+      "nome": "Morena Peruvian Kitchen",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plaza de Armas (busque pelo nome)",
+      "info": "Pratos S/43–72. 12:00–23:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Morena+Peruvian+Kitchen+Cusco",
+      "preco": "Pratos S/43–72",
+      "moeda": "PEN",
+      "min": 43,
+      "max": 72,
+      "est": false,
+      "dias": "5"
+    },
+    {
+      "id": "chicha",
+      "nome": "Chicha por Gastón Acurio",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Plaza Regocijo 261, 2º andar",
+      "info": "Mais caro (S/70–130). Peruana contemporânea.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicha+por+Gast%C3%B3n+Acurio+Cusco",
+      "preco": "≈S/72–126 por pessoa",
+      "moeda": "PEN",
+      "min": 72,
+      "max": 126,
+      "est": false,
+      "dias": "6"
+    },
+    {
+      "id": "cicciolina",
+      "nome": "Cicciolina",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Calle Palacio 110, 2º andar",
+      "info": "Tapas e pratos andinos.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cicciolina+Cusco",
+      "preco": "≈S/70–120 por pessoa",
+      "moeda": "PEN",
+      "min": 70,
+      "max": 120,
+      "est": true,
+      "dias": "6"
+    },
+    {
+      "id": "campo",
+      "nome": "Campo Cocina Andina",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Calle Plateros 310",
+      "info": "Andina, preço médio.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Campo+Cocina+Andina+Cusco",
+      "preco": "≈S/45–80 por pessoa",
+      "moeda": "PEN",
+      "min": 45,
+      "max": 80,
+      "est": true,
+      "dias": "5"
+    },
+    {
+      "id": "green_point",
+      "nome": "Green Point (vegano)",
+      "cat": "Comer",
+      "cidade": "Cusco",
+      "pais": "Peru",
+      "end": "Carmen Bajo 235",
+      "info": "Menu vegano barato em San Blas.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Green+Point+Cusco",
+      "preco": "Menu ≈S/20–35",
+      "moeda": "PEN",
+      "min": 20,
+      "max": 35,
+      "est": true,
+      "dias": "5"
+    },
+    {
+      "id": "kasani",
+      "nome": "Fronteira Kasani (Peru → Bolívia)",
+      "cat": "Transporte",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Kasani / Yunguyo",
+      "info": "Peru 07:30–18:00 (hora Peru). Bolívia 08:30–19:00 (hora Bolívia). 45–90 min.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frontera+Kasani+Bolivia",
+      "preco": "Entrada sem taxa",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "7"
+    },
+    {
+      "id": "copa_basilica",
+      "nome": "Basílica de Copacabana",
+      "cat": "Atração",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Plaza 2 de Febrero",
+      "info": "Grátis. Bênção de carros aos fins de semana.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica+de+Nuestra+Se%C3%B1ora+de+Copacabana",
+      "preco": "Grátis",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "7"
+    },
+    {
+      "id": "cerro_calvario",
+      "nome": "Cerro Calvario (pôr do sol)",
+      "cat": "Atração",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Norte da cidade",
+      "info": "Subida íngreme de 30–40 min. Vá devagar (3.900 m+).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cerro+Calvario+Copacabana+Bolivia",
+      "preco": "Grátis",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "7"
+    },
+    {
+      "id": "copa_port",
+      "nome": "Porto de Copacabana (barcos)",
+      "cat": "Transporte",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Fim da Av. 6 de Agosto, na orla",
+      "info": "Barcos para Isla del Sol ≈08:30 e 13:30.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Puerto+de+Copacabana+Bolivia+muelle",
+      "preco": "Barco Bs 30–50 por trecho",
+      "moeda": "BOB",
+      "min": 30,
+      "max": 50,
+      "est": false,
+      "dias": "7, 8"
+    },
+    {
+      "id": "plaza_sucre",
+      "nome": "Plaza Sucre (ônibus para La Paz)",
+      "cat": "Transporte",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Plaza Sucre / Av. 6 de Agosto",
+      "info": "Guichês das empresas. Saídas 13:30 e 18:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza+Sucre+Copacabana+Bolivia",
+      "preco": "Ônibus para La Paz Bs 30–100",
+      "moeda": "BOB",
+      "min": 30,
+      "max": 100,
+      "est": false,
+      "dias": "7, 8"
+    },
+    {
+      "id": "copa_kiosks",
+      "nome": "Quiosques de truta",
+      "cat": "Comer",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Av. Costanera (orla)",
+      "info": "Truta do lago, barato. Ex.: Kiosco 12 Aries.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida+Costanera+Copacabana+Bolivia",
+      "preco": "Truta ≈Bs 40–70",
+      "moeda": "BOB",
+      "min": 40,
+      "max": 70,
+      "est": true,
+      "dias": "7, 8"
+    },
+    {
+      "id": "la_cupula",
+      "nome": "La Cúpula",
+      "cat": "Comer",
+      "cidade": "Copacabana",
+      "pais": "Bolívia",
+      "end": "Calle Michel Pérez 1-3",
+      "info": "Vista do lago. Só dinheiro.",
+      "url": "https://www.google.com/maps/search/?api=1&query=La+Cupula+Copacabana+Bolivia",
+      "preco": "≈Bs 60–110 por pessoa",
+      "moeda": "BOB",
+      "min": 60,
+      "max": 110,
+      "est": true,
+      "dias": "7"
+    },
+    {
+      "id": "yumani",
+      "nome": "Yumani — Isla del Sol (lado sul)",
+      "cat": "Atração",
+      "cidade": "Isla del Sol",
+      "pais": "Bolívia",
+      "end": "Comunidade de Yumani",
+      "info": "Taxa comunitária Bs 10–20 por posto (notas pequenas).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yumani+Isla+del+Sol+Bolivia",
+      "preco": "Taxa comunitária Bs 10–20 por posto",
+      "moeda": "BOB",
+      "min": 10,
+      "max": 20,
+      "est": false,
+      "dias": "8"
+    },
+    {
+      "id": "escalera_inca",
+      "nome": "Escadaria Inca e Fonte do Inca",
+      "cat": "Atração",
+      "cidade": "Isla del Sol",
+      "pais": "Bolívia",
+      "end": "Desembarque de Yumani",
+      "info": "Chegada do barco; subida forte.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escalera+del+Inca+Isla+del+Sol",
+      "preco": "Coberto pela taxa de Yumani",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "8"
+    },
+    {
+      "id": "tiquina",
+      "nome": "Estreito de Tiquina",
+      "cat": "Transporte",
+      "cidade": "Tiquina",
+      "pais": "Bolívia",
+      "end": "San Pablo de Tiquina",
+      "info": "Você desce do ônibus e atravessa de lancha (Bs 2).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estrecho+de+Tiquina",
+      "preco": "Lancha Bs 2",
+      "moeda": "BOB",
+      "min": 2,
+      "max": 2,
+      "est": false,
+      "dias": "8"
+    },
+    {
+      "id": "lp_central",
+      "nome": "Mi Teleférico — Estación Central (Linha Vermelha)",
+      "cat": "Transporte",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Antiga estação de trem, Av. Manco Kapac",
+      "info": "Bs 3 + Bs 2 por baldeação. 06:30–22:30.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+Central+Mi+Telef%C3%A9rico+La+Paz",
+      "preco": "Bs 3 (1ª linha)",
+      "moeda": "BOB",
+      "min": 3,
+      "max": 3,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "lp_16julio",
+      "nome": "Estação 16 de Julio (El Alto)",
+      "cat": "Transporte",
+      "cidade": "El Alto",
+      "pais": "Bolívia",
+      "end": "Av. 16 de Julio, El Alto",
+      "info": "4.061 m. Feria 16 de Julio às quintas e domingos (cuidado com a carteira).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+16+de+Julio+Mi+Telef%C3%A9rico+El+Alto",
+      "preco": "Baldeação Bs 2",
+      "moeda": "BOB",
+      "min": 2,
+      "max": 2,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "lp_mirador",
+      "nome": "Estação Mirador (Prateada ↔ Amarela)",
+      "cat": "Transporte",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Borda do El Alto",
+      "info": "Troque para a Amarela e desça até Sopocachi.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+Mirador+Mi+Telef%C3%A9rico+La+Paz",
+      "preco": "Baldeação Bs 2",
+      "moeda": "BOB",
+      "min": 2,
+      "max": 2,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "brujas",
+      "nome": "Mercado das Bruxas",
+      "cat": "Compras",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Linares (esq. Sagárnaga)",
+      "info": "Só olhar e fotografar com respeito.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercado+de+las+Brujas+La+Paz",
+      "preco": "Grátis",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "sagarnaga",
+      "nome": "Calle Sagárnaga",
+      "cat": "Compras",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Centro",
+      "info": "Rua das agências e lojas de lã.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Calle+Sag%C3%A1rnaga+La+Paz",
+      "preco": "Grátis",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "san_francisco",
+      "nome": "Basílica de San Francisco",
+      "cat": "Atração",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Plaza San Francisco",
+      "info": "Ponto central do centro antigo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica+de+San+Francisco+La+Paz",
+      "preco": "Igreja grátis; museu ≈Bs 20–40",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 40,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "plaza_murillo",
+      "nome": "Plaza Murillo",
+      "cat": "Atração",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Centro",
+      "info": "Palácio do governo e catedral.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza+Murillo+La+Paz",
+      "preco": "Grátis",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "calle_jaen",
+      "nome": "Calle Jaén",
+      "cat": "Atração",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Centro",
+      "info": "Rua colonial preservada, museus pequenos.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Calle+Ja%C3%A9n+La+Paz",
+      "preco": "Rua grátis; museus ≈Bs 20",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 20,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "mercado_lanza",
+      "nome": "Mercado Lanza",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Figueroa / Evaristo Valle",
+      "info": "Comida de mercado e sucos baratos.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercado+Lanza+La+Paz",
+      "preco": "Prato ≈Bs 15–35",
+      "moeda": "BOB",
+      "min": 15,
+      "max": 35,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "popular",
+      "nome": "Popular Cocina Boliviana",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Murillo 826, 2º andar",
+      "info": "Só almoço, seg–sáb 12:30–14:30. Reserve.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popular+Cocina+Boliviana+La+Paz",
+      "preco": "Almoço degustação ≈Bs 120–200",
+      "moeda": "BOB",
+      "min": 120,
+      "max": 200,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "cafe_mundo",
+      "nome": "Café del Mundo",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Sagárnaga 324",
+      "info": "06:30–22:00. Bom para jantar antes do ônibus.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+del+Mundo+La+Paz+Sagarnaga",
+      "preco": "≈Bs 50–100 por pessoa",
+      "moeda": "BOB",
+      "min": 50,
+      "max": 100,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "saltena",
+      "nome": "Paceña La Salteña",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Loayza 233 (Centro)",
+      "info": "Salteñas de manhã, 08:00–14:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pace%C3%B1a+La+Salte%C3%B1a+Loayza+La+Paz",
+      "preco": "Salteña ≈Bs 8–15 cada",
+      "moeda": "BOB",
+      "min": 8,
+      "max": 15,
+      "est": true,
+      "dias": "9"
+    },
+    {
+      "id": "ali_pacha",
+      "nome": "Ali Pacha",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Colón 1306",
+      "info": "Vegano autoral. Fecha fim de semana.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ali+Pacha+La+Paz",
+      "preco": "Menu degustação ≈Bs 300–600",
+      "moeda": "BOB",
+      "min": 300,
+      "max": 600,
+      "est": true,
+      "dias": "opcional"
+    },
+    {
+      "id": "gustu",
+      "nome": "Gustu",
+      "cat": "Comer",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle 10 nº 300, Calacoto",
+      "info": "Alta gastronomia boliviana. Reserve.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gustu+La+Paz",
+      "preco": "Menu degustação ≈Bs 800–1.500",
+      "moeda": "BOB",
+      "min": 800,
+      "max": 1500,
+      "est": true,
+      "dias": "opcional"
+    },
+    {
+      "id": "valle_luna_lp",
+      "nome": "Valle de la Luna (La Paz)",
+      "cat": "Atração",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Mallasa",
+      "info": "Bs 15, 09:00–17:00. Táxi Bs 40–60.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Valle+de+la+Luna+La+Paz+Mallasa",
+      "preco": "Bs 15 + táxi Bs 40–60",
+      "moeda": "BOB",
+      "min": 15,
+      "max": 15,
+      "est": false,
+      "dias": "opcional"
+    },
+    {
+      "id": "todo_lp",
+      "nome": "Todo Turismo (ônibus para Uyuni)",
+      "cat": "Transporte",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Pasaje Kramer 710 (perto da Av. Uruguay)",
+      "info": "Saída 21:00. WhatsApp +591 76974976.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Todo+Turismo+Pasaje+Kramer+La+Paz",
+      "preco": "US$44–49",
+      "moeda": "USD",
+      "min": 44,
+      "max": 49,
+      "est": false,
+      "dias": "9"
+    },
+    {
+      "id": "lp_terminal",
+      "nome": "Terminal de Buses de La Paz",
+      "cat": "Transporte",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Plaza Antofagasta, Av. Perú",
+      "info": "Ônibus comuns para Uyuni 20:00–22:00. Taxa Bs 2.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terminal+de+Buses+La+Paz",
+      "preco": "Ônibus comuns para Uyuni ≈Bs 90–260 + taxa Bs 2",
+      "moeda": "BOB",
+      "min": 90,
+      "max": 260,
+      "est": true,
+      "dias": "opcional"
+    },
+    {
+      "id": "gravity",
+      "nome": "Gravity Bolivia (Estrada da Morte)",
+      "cat": "Agência",
+      "cidade": "La Paz",
+      "pais": "Bolívia",
+      "end": "Calle Linares 940",
+      "info": "US$140. Só se acrescentar 1 dia.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gravity+Bolivia+La+Paz",
+      "preco": "US$140",
+      "moeda": "USD",
+      "min": 140,
+      "max": 140,
+      "est": false,
+      "dias": "opcional"
+    },
+    {
+      "id": "todo_uyuni",
+      "nome": "Todo Turismo — Uyuni (chegada)",
+      "cat": "Transporte",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Av. Cabrera 158",
+      "info": "Agências guardam sua mala até a saída do tour.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Todo+Turismo+Uyuni+Av+Cabrera",
+      "preco": "Guardar mala: grátis com a agência",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "10"
+    },
+    {
+      "id": "tika",
+      "nome": "Tika",
+      "cat": "Comer",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Av. Potosí 113",
+      "info": "Café 07:00–10:00, jantar 16:00–22:00. Aceita cartão.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tika+restaurante+Uyuni",
+      "preco": "≈Bs 60–130 por pessoa",
+      "moeda": "BOB",
+      "min": 60,
+      "max": 130,
+      "est": true,
+      "dias": "10"
+    },
+    {
+      "id": "minuteman",
+      "nome": "Minuteman Revolutionary Pizza",
+      "cat": "Comer",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Av. Ferroviaria 60 (Hotel Toñito)",
+      "info": "17:00–21:30. Fecha terça.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Minuteman+Revolutionary+Pizza+Uyuni",
+      "preco": "Pizza ≈Bs 70–120",
+      "moeda": "BOB",
+      "min": 70,
+      "max": 120,
+      "est": true,
+      "dias": "opcional"
+    },
+    {
+      "id": "hot_spot",
+      "nome": "The Hot Spot",
+      "cat": "Comer",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Calle Colón 687",
+      "info": "Ter–dom à noite.",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Hot+Spot+Uyuni",
+      "preco": "≈Bs 50–100 por pessoa",
+      "moeda": "BOB",
+      "min": 50,
+      "max": 100,
+      "est": true,
+      "dias": "opcional"
+    },
+    {
+      "id": "cordillera",
+      "nome": "Cordillera Traveller",
+      "cat": "Agência",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Av. Ferroviaria s/n",
+      "info": "Tour 3 dias até San Pedro ≈ US$210 (taxas à parte).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cordillera+Traveller+Uyuni",
+      "preco": "Tour 3 dias US$210 + taxas",
+      "moeda": "USD",
+      "min": 210,
+      "max": 210,
+      "est": false,
+      "dias": "10"
+    },
+    {
+      "id": "red_planet",
+      "nome": "Red Planet Expedition",
+      "cat": "Agência",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Av. Ferroviaria (entre Sucre e Camacho)",
+      "info": "Agência tradicional.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red+Planet+Expedition+Uyuni",
+      "preco": "Tour 3 dias ≈US$210–240",
+      "moeda": "USD",
+      "min": 210,
+      "max": 240,
+      "est": true,
+      "dias": "10"
+    },
+    {
+      "id": "quechua",
+      "nome": "Quechua Connection",
+      "cat": "Agência",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "Calle Bolívar esq. Cabrera",
+      "info": "Agência tradicional.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quechua+Connection+Uyuni",
+      "preco": "Tour 3 dias ≈US$210–240",
+      "moeda": "USD",
+      "min": 210,
+      "max": 240,
+      "est": true,
+      "dias": "10"
+    },
+    {
+      "id": "cemetery",
+      "nome": "Cemitério de Trens",
+      "cat": "Atração",
+      "cidade": "Uyuni",
+      "pais": "Bolívia",
+      "end": "3 km de Uyuni",
+      "info": "1ª parada do tour.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cementerio+de+Trenes+Uyuni",
+      "preco": "Incluído no tour",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "10"
+    },
+    {
+      "id": "colchani",
+      "nome": "Colchani",
+      "cat": "Atração",
+      "cidade": "Salar de Uyuni",
+      "pais": "Bolívia",
+      "end": "Borda do salar",
+      "info": "Vila do sal e artesanato.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colchani+Bolivia",
+      "preco": "Incluído; banheiro Bs 5",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 5,
+      "est": false,
+      "dias": "10"
+    },
+    {
+      "id": "incahuasi",
+      "nome": "Isla Incahuasi",
+      "cat": "Atração",
+      "cidade": "Salar de Uyuni",
+      "pais": "Bolívia",
+      "end": "Centro do salar",
+      "info": "Bs 30, só dinheiro. Cactos gigantes.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Isla+Incahuasi",
+      "preco": "Bs 30 (só dinheiro)",
+      "moeda": "BOB",
+      "min": 30,
+      "max": 30,
+      "est": false,
+      "dias": "10"
+    },
+    {
+      "id": "arbol_piedra",
+      "nome": "Árbol de Piedra",
+      "cat": "Atração",
+      "cidade": "Reserva Eduardo Avaroa",
+      "pais": "Bolívia",
+      "end": "Desierto de Siloli",
+      "info": "Dentro da reserva (Bs 150).",
+      "url": "https://www.google.com/maps/search/?api=1&query=%C3%81rbol+de+Piedra+Bolivia",
+      "preco": "Dentro da Reserva Avaroa (Bs 150, paga uma vez)",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "11"
+    },
+    {
+      "id": "laguna_colorada",
+      "nome": "Laguna Colorada",
+      "cat": "Atração",
+      "cidade": "Reserva Eduardo Avaroa",
+      "pais": "Bolívia",
+      "end": "4.278 m",
+      "info": "Flamingos. Vento forte.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Colorada+Bolivia",
+      "preco": "Reserva Avaroa Bs 150 (paga uma vez)",
+      "moeda": "BOB",
+      "min": 150,
+      "max": 150,
+      "est": false,
+      "dias": "11"
+    },
+    {
+      "id": "sol_manana",
+      "nome": "Gêiseres Sol de Mañana",
+      "cat": "Atração",
+      "cidade": "Reserva Eduardo Avaroa",
+      "pais": "Bolívia",
+      "end": "≈4.900 m",
+      "info": "Ao amanhecer, muito frio. Não pise fora da trilha.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sol+de+Ma%C3%B1ana+Bolivia",
+      "preco": "Coberto pela Reserva Avaroa",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "polques",
+      "nome": "Termas de Polques",
+      "cat": "Atração",
+      "cidade": "Reserva Eduardo Avaroa",
+      "pais": "Bolívia",
+      "end": "Laguna Chalviri",
+      "info": "Bs 6–30. Leve roupa de banho e toalha.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Termas+de+Polques",
+      "preco": "Bs 6–30",
+      "moeda": "BOB",
+      "min": 6,
+      "max": 30,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "laguna_verde",
+      "nome": "Laguna Verde",
+      "cat": "Atração",
+      "cidade": "Reserva Eduardo Avaroa",
+      "pais": "Bolívia",
+      "end": "Aos pés do vulcão Licancabur",
+      "info": "Última parada antes da fronteira.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Verde+Bolivia+Licancabur",
+      "preco": "Coberto pela Reserva Avaroa",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "hito_cajon",
+      "nome": "Fronteira Hito Cajón (Bolívia → Chile)",
+      "cat": "Transporte",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Rota CH-27, 43 km de San Pedro",
+      "info": "Controle SAG + PDI aqui. 08:00–20:00 (hora Chile).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Complejo+Fronterizo+Hito+Caj%C3%B3n",
+      "preco": "Saída ≈Bs 15 (informal, pode não ser cobrada)",
+      "moeda": "BOB",
+      "min": 0,
+      "max": 15,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "caracoles",
+      "nome": "Calle Caracoles",
+      "cat": "Atração",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Rua principal",
+      "info": "Agências, restaurantes e caixas.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Calle+Caracoles+San+Pedro+de+Atacama",
+      "preco": "Grátis",
+      "moeda": "CLP",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "iglesia_spa",
+      "nome": "Igreja de San Pedro",
+      "cat": "Atração",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Praça principal",
+      "info": "Igreja de adobe e madeira de cacto.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+San+Pedro+de+Atacama",
+      "preco": "Grátis",
+      "moeda": "CLP",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "13"
+    },
+    {
+      "id": "bci1",
+      "nome": "Caixa BCI (farmácia Salcobrand)",
+      "cat": "Dinheiro",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 241 (esq. Tocopilla)",
+      "info": "Só ~4 caixas na cidade: chegue cedo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salcobrand+Caracoles+241+San+Pedro+de+Atacama",
+      "preco": "Tarifa do saque CLP 5.000–8.500",
+      "moeda": "CLP",
+      "min": 5000,
+      "max": 8500,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "bci2",
+      "nome": "Caixa BCI (Cruz Verde)",
+      "cat": "Dinheiro",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 359",
+      "info": "Tarifa ≈ CLP 5.000–8.500 por saque.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cruz+Verde+Caracoles+San+Pedro+de+Atacama",
+      "preco": "Tarifa do saque CLP 5.000–8.500",
+      "moeda": "CLP",
+      "min": 5000,
+      "max": 8500,
+      "est": false,
+      "dias": "opcional"
+    },
+    {
+      "id": "bancoestado",
+      "nome": "BancoEstado",
+      "cat": "Dinheiro",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Gustavo Le Paige s/n",
+      "info": "Tarifa ≈ CLP 5.500; limite CLP 400.000.",
+      "url": "https://www.google.com/maps/search/?api=1&query=BancoEstado+San+Pedro+de+Atacama",
+      "preco": "Tarifa do saque ≈CLP 5.500",
+      "moeda": "CLP",
+      "min": 5500,
+      "max": 5500,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "llamita",
+      "nome": "Casa de câmbio La Llamita",
+      "cat": "Dinheiro",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Toconao 447-A",
+      "info": "08:00–21:30. Outras na mesma rua.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Toconao+447+San+Pedro+de+Atacama",
+      "preco": "Sem taxa; compare a cotação",
+      "moeda": "CLP",
+      "min": 0,
+      "max": 0,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "atacama_magic",
+      "nome": "Atacama Magic (agência)",
+      "cat": "Agência",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 254-D",
+      "info": "Muito bem avaliada. 09:00–21:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atacama+Magic+San+Pedro+de+Atacama",
+      "preco": "Tours CLP 29.000–55.000 + entradas",
+      "moeda": "CLP",
+      "min": 29000,
+      "max": 55000,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "atacama_infinity",
+      "nome": "Atacama Infinity (agência e transfer)",
+      "cat": "Agência",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 360",
+      "info": "Transfer para Calama CLP 22.000.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atacama+Infinity+San+Pedro+de+Atacama",
+      "preco": "Transfer para Calama CLP 22.000",
+      "moeda": "CLP",
+      "min": 22000,
+      "max": 22000,
+      "est": false,
+      "dias": "16"
+    },
+    {
+      "id": "valle_luna",
+      "nome": "Valle de la Luna",
+      "cat": "Atração",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "13 km a oeste",
+      "info": "CLP 10.800 online (valledelaluna.com). Mirante Ckari fechado desde mai/2026.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Valle+de+la+Luna+San+Pedro+de+Atacama",
+      "preco": "Entrada CLP 10.800; tour CLP 29–35 mil",
+      "moeda": "CLP",
+      "min": 39800,
+      "max": 45800,
+      "est": false,
+      "dias": "13"
+    },
+    {
+      "id": "pukara",
+      "nome": "Pukará de Quitor",
+      "cat": "Atração",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "3 km ao norte",
+      "info": "≈ CLP 4.000. Dá para ir de bike.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pukar%C3%A1+de+Quitor",
+      "preco": "≈CLP 4.000",
+      "moeda": "CLP",
+      "min": 4000,
+      "max": 4000,
+      "est": false,
+      "dias": "13"
+    },
+    {
+      "id": "piedras_rojas",
+      "nome": "Piedras Rojas",
+      "cat": "Atração",
+      "cidade": "Altiplano",
+      "pais": "Chile",
+      "end": "Salar de Talar",
+      "info": "Entrada só online em socairechile.cl.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piedras+Rojas+Salar+de+Talar",
+      "preco": "CLP 10.000 (ou 15.000 com as lagunas)",
+      "moeda": "CLP",
+      "min": 10000,
+      "max": 15000,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "miscanti",
+      "nome": "Lagunas Miscanti e Miñiques",
+      "cat": "Atração",
+      "cidade": "Altiplano",
+      "pais": "Chile",
+      "end": "≈4.100 m",
+      "info": "Combo com Piedras Rojas CLP 15.000.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Miscanti",
+      "preco": "Combo com Piedras Rojas CLP 15.000",
+      "moeda": "CLP",
+      "min": 15000,
+      "max": 15000,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "chaxa",
+      "nome": "Laguna Chaxa (flamingos)",
+      "cat": "Atração",
+      "cidade": "Salar de Atacama",
+      "pais": "Chile",
+      "end": "Salar de Atacama",
+      "info": "CLP 12.000 (estrangeiro).",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Chaxa",
+      "preco": "CLP 12.000",
+      "moeda": "CLP",
+      "min": 12000,
+      "max": 12000,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "tatio",
+      "nome": "Gêiseres del Tatio",
+      "cat": "Atração",
+      "cidade": "Altiplano",
+      "pais": "Chile",
+      "end": "≈4.320 m",
+      "info": "CLP 15.000 no portão (cartão). Proibido menores de 9 anos.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geysers+del+Tatio",
+      "preco": "CLP 15.000; tour CLP 35–40 mil",
+      "moeda": "CLP",
+      "min": 50000,
+      "max": 55000,
+      "est": false,
+      "dias": "opcional"
+    },
+    {
+      "id": "baltinache",
+      "nome": "Lagunas Escondidas de Baltinache",
+      "cat": "Atração",
+      "cidade": "Salar de Atacama",
+      "pais": "Chile",
+      "end": "≈50 km de San Pedro",
+      "info": "CLP 6.000–12.000, só dinheiro. Flutuação no sal.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lagunas+Escondidas+de+Baltinache",
+      "preco": "Entrada CLP 6.000–12.000 (dinheiro)",
+      "moeda": "CLP",
+      "min": 6000,
+      "max": 12000,
+      "est": false,
+      "dias": "15"
+    },
+    {
+      "id": "cejar",
+      "nome": "Laguna Cejar",
+      "cat": "Atração",
+      "cidade": "Salar de Atacama",
+      "pais": "Chile",
+      "end": "≈20 km de San Pedro",
+      "info": "CLP 15.000 só online (lagunacejar.com), horário marcado.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Cejar",
+      "preco": "CLP 15.000 (online)",
+      "moeda": "CLP",
+      "min": 15000,
+      "max": 15000,
+      "est": false,
+      "dias": "15"
+    },
+    {
+      "id": "tebinquinche",
+      "nome": "Laguna Tebinquinche",
+      "cat": "Atração",
+      "cidade": "Salar de Atacama",
+      "pais": "Chile",
+      "end": "Salar de Atacama",
+      "info": "CLP 6.000 em dinheiro. Pôr do sol.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Laguna+Tebinquinche",
+      "preco": "CLP 6.000 (dinheiro)",
+      "moeda": "CLP",
+      "min": 6000,
+      "max": 6000,
+      "est": false,
+      "dias": "15"
+    },
+    {
+      "id": "arcoiris",
+      "nome": "Valle del Arcoíris",
+      "cat": "Atração",
+      "cidade": "Altiplano",
+      "pais": "Chile",
+      "end": "Estrada para Calama/Río Grande",
+      "info": "CLP 5.000 + 5.000 petróglifos, dinheiro.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Valle+del+Arcoiris+San+Pedro+de+Atacama",
+      "preco": "CLP 5.000 + 5.000 petróglifos",
+      "moeda": "CLP",
+      "min": 5000,
+      "max": 10000,
+      "est": false,
+      "dias": "15"
+    },
+    {
+      "id": "space",
+      "nome": "SPACE (tour astronômico)",
+      "cat": "Agência",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Calle Ignacio Carrera Pinto (frente à escola E-26)",
+      "info": "CLP 45.000, reserva online. Sem tour perto da lua cheia.",
+      "url": "https://www.google.com/maps/search/?api=1&query=SPACE+San+Pedro+de+Atacama+Celestial+Explorations",
+      "preco": "CLP 45.000",
+      "moeda": "CLP",
+      "min": 45000,
+      "max": 45000,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "ahlarkapin",
+      "nome": "Observatório Ahlarkapin",
+      "cat": "Agência",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Tchapur 138",
+      "info": "Tem 'tour da lua' perto da lua cheia.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ahlarkapin+San+Pedro+de+Atacama",
+      "preco": "≈CLP 35.000–45.000",
+      "moeda": "CLP",
+      "min": 35000,
+      "max": 45000,
+      "est": true,
+      "dias": "14"
+    },
+    {
+      "id": "adobe",
+      "nome": "Adobe",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 211",
+      "info": "CLP 18–30 mil por pessoa. Fogueira à noite.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adobe+restaurante+San+Pedro+de+Atacama",
+      "preco": "CLP 18.000–30.000 por pessoa",
+      "moeda": "CLP",
+      "min": 18000,
+      "max": 30000,
+      "est": false,
+      "dias": "13, 15"
+    },
+    {
+      "id": "delicias",
+      "nome": "Las Delicias de Carmen",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Calama 360",
+      "info": "Comida caseira chilena, menu do dia.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Las+Delicias+de+Carmen+San+Pedro+de+Atacama",
+      "preco": "Menu ≈CLP 10.000–15.000",
+      "moeda": "CLP",
+      "min": 10000,
+      "max": 15000,
+      "est": true,
+      "dias": "12, 15"
+    },
+    {
+      "id": "ckunna",
+      "nome": "Ckunna",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 101-B",
+      "info": "Ter–sáb 13:00–21:30. Pratos CLP 12–18 mil.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ckunna+San+Pedro+de+Atacama",
+      "preco": "Pratos CLP 12.000–18.000",
+      "moeda": "CLP",
+      "min": 12000,
+      "max": 18000,
+      "est": false,
+      "dias": "13"
+    },
+    {
+      "id": "picada",
+      "nome": "La Picada del Indio",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Tocopilla 418",
+      "info": "Menu do dia CLP 8.000. Fecha quarta. Cartão +10%.",
+      "url": "https://www.google.com/maps/search/?api=1&query=La+Picada+del+Indio+San+Pedro+de+Atacama",
+      "preco": "Menu do dia CLP 8.000",
+      "moeda": "CLP",
+      "min": 8000,
+      "max": 8000,
+      "est": false,
+      "dias": "12"
+    },
+    {
+      "id": "charrua",
+      "nome": "Pizzería El Charrúa",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Tocopilla 442",
+      "info": "12:00–24:00. Pizza individual CLP 13–17 mil.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria+El+Charrua+San+Pedro+de+Atacama",
+      "preco": "Pizza individual CLP 12.900–16.900",
+      "moeda": "CLP",
+      "min": 12900,
+      "max": 16900,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "roots",
+      "nome": "Roots Café & Bar",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Toconao 459-B",
+      "info": "08:30–23:00.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roots+Cafe+San+Pedro+de+Atacama",
+      "preco": "≈CLP 8.000–15.000",
+      "moeda": "CLP",
+      "min": 8000,
+      "max": 15000,
+      "est": true,
+      "dias": "13, 16"
+    },
+    {
+      "id": "carritos",
+      "nome": "Los Carritos (praça de alimentação)",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Calle Licancabur",
+      "info": "Menu do dia CLP 7–10 mil.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Calle+Licancabur+San+Pedro+de+Atacama",
+      "preco": "Menu CLP 7.000–10.000",
+      "moeda": "CLP",
+      "min": 7000,
+      "max": 10000,
+      "est": false,
+      "dias": "14"
+    },
+    {
+      "id": "babalu",
+      "nome": "Babalú (sorvete)",
+      "cat": "Comer",
+      "cidade": "San Pedro de Atacama",
+      "pais": "Chile",
+      "end": "Caracoles 140",
+      "info": "Sorvetes de sabores locais.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Babalu+San+Pedro+de+Atacama",
+      "preco": "CLP 2.000–4.500",
+      "moeda": "CLP",
+      "min": 2000,
+      "max": 4500,
+      "est": false,
+      "dias": "15"
+    },
+    {
+      "id": "cjc",
+      "nome": "Aeroporto El Loa — Calama (CJC)",
+      "cat": "Transporte",
+      "cidade": "Calama",
+      "pais": "Chile",
+      "end": "Calama",
+      "info": "Só voos domésticos: conexão em Santiago.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+El+Loa+Calama",
+      "preco": "Voo Calama → Santiago ≈US$60–150 se comprado à parte",
+      "moeda": "USD",
+      "min": 60,
+      "max": 150,
+      "est": true,
+      "dias": "16"
+    }
+  ],
+  "fotos": {
+    "cuz_airport": [
+      "en:Alejandro Velasco Astete International Airport",
+      "c:Aeropuerto Cusco Velasco Astete"
+    ],
+    "ollanta_station": [
+      "c:Ollantaytambo train station",
+      "c:Ollantaytambo PeruRail"
+    ],
+    "ollanta_plaza": [
+      "c:Ollantaytambo Plaza de Armas",
+      "es:Ollantaytambo"
+    ],
+    "ollanta_ruins": [
+      "en:Ollantaytambo",
+      "c:Ollantaytambo ruins terraces"
+    ],
+    "pisac_ruins": [
+      "c:Pisac ruins terraces",
+      "en:Písac"
+    ],
+    "pisac_market": [
+      "c:Pisac market",
+      "c:Mercado de Pisac"
+    ],
+    "moray": [
+      "en:Moray (Inca ruin)",
+      "es:Moray",
+      "c:Moray terraces Peru"
+    ],
+    "maras": [
+      "es:Salineras de Maras",
+      "c:Salineras de Maras"
+    ],
+    "ac_station": [
+      "c:Aguas Calientes train station",
+      "c:Machu Picchu Pueblo station"
+    ],
+    "consettur": [
+      "c:Consettur bus Machu Picchu",
+      "c:Hiram Bingham road Machu Picchu"
+    ],
+    "ac_tickets": [
+      "en:Aguas Calientes, Peru",
+      "c:Aguas Calientes Peru town"
+    ],
+    "ac_springs": [
+      "c:Aguas Calientes hot springs Peru",
+      "c:Baños termales Aguas Calientes"
+    ],
+    "machu_picchu": [
+      "pt:Machu Picchu",
+      "en:Machu Picchu"
+    ],
+    "cusco_plaza": [
+      "es:Plaza de Armas del Cusco",
+      "c:Plaza de Armas Cusco"
+    ],
+    "cusco_cathedral": [
+      "en:Cusco Cathedral",
+      "c:Catedral del Cusco"
+    ],
+    "qorikancha": [
+      "en:Coricancha",
+      "es:Coricancha"
+    ],
+    "san_pedro_mkt": [
+      "c:Mercado San Pedro Cusco",
+      "c:San Pedro market Cusco"
+    ],
+    "twelve_angle": [
+      "es:Piedra de los doce ángulos",
+      "c:Piedra de los 12 angulos Cusco"
+    ],
+    "san_blas": [
+      "c:San Blas Cusco",
+      "c:Plazoleta San Blas Cusco"
+    ],
+    "sacsay": [
+      "pt:Sacsayhuamán",
+      "en:Sacsayhuamán"
+    ],
+    "cristo_blanco": [
+      "es:Cristo Blanco (Cusco)",
+      "c:Cristo Blanco Cusco"
+    ],
+    "qenqo": [
+      "en:Q'enqo",
+      "c:Qenqo Cusco"
+    ],
+    "pukapukara": [
+      "en:Puka Pukara",
+      "c:Puca Pucara Cusco"
+    ],
+    "tambomachay": [
+      "en:Tambomachay",
+      "c:Tambomachay"
+    ],
+    "cosituc": [
+      "c:Avenida El Sol Cusco"
+    ],
+    "cusco_terminal": [
+      "c:Terminal Terrestre Cusco"
+    ],
+    "kasani": [
+      "c:Kasani Bolivia Peru border",
+      "c:Yunguyo border"
+    ],
+    "copa_basilica": [
+      "en:Basilica of Our Lady of Copacabana",
+      "c:Basilica Copacabana Bolivia"
+    ],
+    "cerro_calvario": [
+      "c:Cerro Calvario Copacabana",
+      "c:Copacabana Bolivia Calvario"
+    ],
+    "copa_port": [
+      "en:Copacabana, Bolivia",
+      "c:Copacabana Bolivia port boats"
+    ],
+    "plaza_sucre": [
+      "c:Copacabana Bolivia plaza",
+      "c:Copacabana Bolivia street"
+    ],
+    "copa_kiosks": [
+      "c:Copacabana Bolivia trout",
+      "c:Trucha Titicaca"
+    ],
+    "yumani": [
+      "c:Yumani Isla del Sol",
+      "en:Isla del Sol"
+    ],
+    "escalera_inca": [
+      "c:Escalera del Inca Isla del Sol",
+      "en:Isla del Sol"
+    ],
+    "tiquina": [
+      "en:Strait of Tiquina",
+      "c:Estrecho de Tiquina"
+    ],
+    "lp_central": [
+      "en:Mi Teleférico",
+      "c:Mi Teleférico Línea Roja"
+    ],
+    "lp_16julio": [
+      "c:Feria 16 de Julio El Alto",
+      "en:El Alto"
+    ],
+    "lp_mirador": [
+      "c:Mi Teleférico Línea Plateada",
+      "c:Mi Teleférico La Paz"
+    ],
+    "brujas": [
+      "es:Mercado de las Brujas",
+      "c:Witches market La Paz"
+    ],
+    "sagarnaga": [
+      "c:Calle Sagárnaga La Paz",
+      "c:Sagarnaga La Paz"
+    ],
+    "san_francisco": [
+      "en:Basilica of San Francisco (La Paz)",
+      "c:Basílica de San Francisco La Paz"
+    ],
+    "plaza_murillo": [
+      "en:Plaza Murillo",
+      "c:Plaza Murillo La Paz"
+    ],
+    "calle_jaen": [
+      "es:Calle Jaén",
+      "c:Calle Jaén La Paz"
+    ],
+    "mercado_lanza": [
+      "c:Mercado Lanza La Paz",
+      "es:Mercado Lanza"
+    ],
+    "valle_luna_lp": [
+      "en:Valle de la Luna (Bolivia)",
+      "c:Valle de la Luna La Paz"
+    ],
+    "lp_terminal": [
+      "es:Terminal de Buses de La Paz",
+      "c:Terminal de buses La Paz"
+    ],
+    "gravity": [
+      "en:Yungas Road",
+      "c:Camino de la muerte Yungas"
+    ],
+    "todo_uyuni": [
+      "en:Uyuni",
+      "c:Uyuni town"
+    ],
+    "cemetery": [
+      "c:Train cemetery Uyuni",
+      "c:Cementerio de trenes Uyuni"
+    ],
+    "colchani": [
+      "c:Colchani salt",
+      "en:Colchani"
+    ],
+    "incahuasi": [
+      "c:Isla Incahuasi",
+      "en:Incahuasi Island"
+    ],
+    "arbol_piedra": [
+      "es:Árbol de Piedra",
+      "c:Arbol de Piedra Bolivia"
+    ],
+    "laguna_colorada": [
+      "en:Laguna Colorada",
+      "c:Laguna Colorada Bolivia"
+    ],
+    "sol_manana": [
+      "en:Sol de Mañana",
+      "c:Sol de Mañana geyser"
+    ],
+    "polques": [
+      "c:Termas de Polques",
+      "c:Polques hot springs"
+    ],
+    "laguna_verde": [
+      "en:Laguna Verde (Bolivia)",
+      "c:Laguna Verde Licancabur"
+    ],
+    "hito_cajon": [
+      "c:Hito Cajón",
+      "c:Paso Hito Cajón"
+    ],
+    "caracoles": [
+      "c:Calle Caracoles San Pedro de Atacama",
+      "en:San Pedro de Atacama"
+    ],
+    "iglesia_spa": [
+      "es:Iglesia de San Pedro de Atacama",
+      "c:Iglesia San Pedro de Atacama"
+    ],
+    "valle_luna": [
+      "en:Valle de la Luna (Chile)",
+      "c:Valle de la Luna Atacama"
+    ],
+    "pukara": [
+      "es:Pukará de Quitor",
+      "c:Pukara de Quitor"
+    ],
+    "piedras_rojas": [
+      "c:Piedras Rojas Atacama",
+      "c:Salar de Talar Piedras Rojas"
+    ],
+    "miscanti": [
+      "en:Miscanti Lake",
+      "c:Laguna Miscanti"
+    ],
+    "chaxa": [
+      "es:Laguna Chaxa",
+      "c:Laguna Chaxa flamingos"
+    ],
+    "tatio": [
+      "en:El Tatio",
+      "c:El Tatio geysers"
+    ],
+    "baltinache": [
+      "c:Lagunas Escondidas de Baltinache",
+      "c:Baltinache"
+    ],
+    "cejar": [
+      "es:Laguna Cejar",
+      "c:Laguna Cejar"
+    ],
+    "tebinquinche": [
+      "c:Laguna Tebinquinche",
+      "c:Tebinquinche"
+    ],
+    "arcoiris": [
+      "c:Valle del Arcoiris San Pedro de Atacama",
+      "c:Valle del Arcoíris Atacama"
+    ],
+    "space": [
+      "c:Atacama night sky Milky Way",
+      "c:San Pedro de Atacama night sky"
+    ],
+    "ahlarkapin": [
+      "c:Atacama night sky telescope",
+      "c:San Pedro de Atacama night sky"
+    ],
+    "cjc": [
+      "en:El Loa Airport",
+      "c:Aeropuerto El Loa Calama"
+    ],
+    "salar": [
+      "en:Salar de Uyuni",
+      "c:Salar de Uyuni"
+    ],
+    "licancabur": [
+      "en:Licancabur",
+      "c:Licancabur volcano"
+    ]
+  },
+  "custos": [
+    [
+      0,
+      "Geral",
+      "Voos e seguro",
+      "Voos multidestino (Brasil → Cusco; Calama → Santiago → Brasil)",
+      "BRL",
+      3000,
+      5500,
+      false,
+      true
+    ],
+    [
+      0,
+      "Geral",
+      "Voos e seguro",
+      "Seguro viagem 16 dias com cobertura de altitude",
+      "BRL",
+      200,
+      450,
+      false,
+      true
+    ],
+    [
+      0,
+      "Geral",
+      "Outros",
+      "Chip/eSIM para Peru, Bolívia e Chile",
+      "USD",
+      20,
+      40,
+      false,
+      true
+    ],
+    [
+      0,
+      "Geral",
+      "Outros",
+      "Vacina de febre amarela (grátis no SUS)",
+      "BRL",
+      0,
+      0,
+      false,
+      false
+    ],
+    [
+      1,
+      "Peru",
+      "Transporte",
+      "Transfer aeroporto → Ollantaytambo (por carro)",
+      "USD",
+      45,
+      60,
+      true,
+      true
+    ],
+    [
+      1,
+      "Peru",
+      "Hospedagem",
+      "Hotel em Ollantaytambo (quarto duplo)",
+      "USD",
+      50,
+      80,
+      true,
+      true
+    ],
+    [
+      1,
+      "Peru",
+      "Alimentação",
+      "Comida do dia",
+      "PEN",
+      60,
+      90,
+      false,
+      false
+    ],
+    [
+      2,
+      "Peru",
+      "Transporte",
+      "Táxi pelo dia: Pisac + Ollantaytambo (por carro)",
+      "PEN",
+      250,
+      350,
+      true,
+      true
+    ],
+    [
+      2,
+      "Peru",
+      "Ingressos e tours",
+      "Boleto Turístico del Cusco integral",
+      "PEN",
+      130,
+      130,
+      false,
+      false
+    ],
+    [
+      2,
+      "Peru",
+      "Hospedagem",
+      "Hotel em Ollantaytambo (quarto duplo)",
+      "USD",
+      50,
+      80,
+      true,
+      true
+    ],
+    [
+      2,
+      "Peru",
+      "Alimentação",
+      "Comida do dia",
+      "PEN",
+      60,
+      90,
+      false,
+      false
+    ],
+    [
+      3,
+      "Peru",
+      "Transporte",
+      "Táxi Moray + Maras (por carro)",
+      "PEN",
+      120,
+      180,
+      true,
+      true
+    ],
+    [
+      3,
+      "Peru",
+      "Ingressos e tours",
+      "Salineras de Maras",
+      "PEN",
+      20,
+      20,
+      false,
+      false
+    ],
+    [
+      3,
+      "Peru",
+      "Transporte",
+      "Trem Ollantaytambo → Águas Calientes",
+      "USD",
+      55,
+      90,
+      false,
+      false
+    ],
+    [
+      3,
+      "Peru",
+      "Transporte",
+      "Ônibus Consettur ida e volta",
+      "USD",
+      24,
+      24,
+      false,
+      false
+    ],
+    [
+      3,
+      "Peru",
+      "Ingressos e tours",
+      "Termas de Águas Calientes (opcional)",
+      "PEN",
+      0,
+      20,
+      false,
+      false
+    ],
+    [
+      3,
+      "Peru",
+      "Hospedagem",
+      "Hotel em Águas Calientes (quarto duplo)",
+      "USD",
+      60,
+      100,
+      true,
+      true
+    ],
+    [
+      3,
+      "Peru",
+      "Alimentação",
+      "Comida do dia (Águas Calientes é mais cara)",
+      "PEN",
+      70,
+      110,
+      false,
+      true
+    ],
+    [
+      4,
+      "Peru",
+      "Ingressos e tours",
+      "Ingresso Machu Picchu (Circuito 2)",
+      "PEN",
+      163,
+      163,
+      false,
+      false
+    ],
+    [
+      4,
+      "Peru",
+      "Ingressos e tours",
+      "Guia oficial em Machu Picchu",
+      "PEN",
+      50,
+      80,
+      false,
+      true
+    ],
+    [
+      4,
+      "Peru",
+      "Transporte",
+      "Trem Águas Calientes → Ollantaytambo",
+      "USD",
+      55,
+      90,
+      false,
+      false
+    ],
+    [
+      4,
+      "Peru",
+      "Transporte",
+      "Van Ollantaytambo → Cusco",
+      "PEN",
+      15,
+      25,
+      false,
+      true
+    ],
+    [
+      4,
+      "Peru",
+      "Hospedagem",
+      "Hotel em Cusco (quarto duplo)",
+      "USD",
+      50,
+      80,
+      true,
+      true
+    ],
+    [
+      4,
+      "Peru",
+      "Alimentação",
+      "Comida do dia",
+      "PEN",
+      60,
+      90,
+      false,
+      false
+    ],
+    [
+      5,
+      "Peru",
+      "Ingressos e tours",
+      "Qorikancha",
+      "PEN",
+      15,
+      15,
+      false,
+      false
+    ],
+    [
+      5,
+      "Peru",
+      "Ingressos e tours",
+      "Catedral de Cusco",
+      "PEN",
+      40,
+      40,
+      false,
+      false
+    ],
+    [
+      5,
+      "Peru",
+      "Transporte",
+      "Táxis por app (por carro)",
+      "PEN",
+      10,
+      30,
+      true,
+      true
+    ],
+    [
+      5,
+      "Peru",
+      "Hospedagem",
+      "Hotel em Cusco (quarto duplo)",
+      "USD",
+      50,
+      80,
+      true,
+      true
+    ],
+    [
+      5,
+      "Peru",
+      "Alimentação",
+      "Comida do dia (jantar com cuy)",
+      "PEN",
+      70,
+      120,
+      false,
+      true
+    ],
+    [
+      6,
+      "Peru",
+      "Transporte",
+      "Táxis: Tambomachay e terminal (por carro)",
+      "PEN",
+      25,
+      45,
+      true,
+      true
+    ],
+    [
+      6,
+      "Peru",
+      "Transporte",
+      "Ônibus noturno Cusco → Copacabana",
+      "USD",
+      33,
+      54,
+      false,
+      false
+    ],
+    [
+      6,
+      "Peru",
+      "Alimentação",
+      "Comida do dia",
+      "PEN",
+      60,
+      90,
+      false,
+      false
+    ],
+    [
+      7,
+      "Bolívia",
+      "Hospedagem",
+      "Hotel em Copacabana (quarto duplo)",
+      "USD",
+      30,
+      50,
+      true,
+      true
+    ],
+    [
+      7,
+      "Bolívia",
+      "Alimentação",
+      "Comida do dia (truta na orla)",
+      "BOB",
+      80,
+      150,
+      false,
+      true
+    ],
+    [
+      8,
+      "Bolívia",
+      "Transporte",
+      "Barco Isla del Sol ida e volta",
+      "BOB",
+      60,
+      100,
+      false,
+      false
+    ],
+    [
+      8,
+      "Bolívia",
+      "Ingressos e tours",
+      "Taxas comunitárias da Isla del Sol",
+      "BOB",
+      10,
+      30,
+      false,
+      false
+    ],
+    [
+      8,
+      "Bolívia",
+      "Transporte",
+      "Ônibus Copacabana → La Paz + lancha de Tiquina",
+      "BOB",
+      32,
+      102,
+      false,
+      false
+    ],
+    [
+      8,
+      "Bolívia",
+      "Transporte",
+      "Táxi Yango até o hotel (por carro)",
+      "BOB",
+      20,
+      40,
+      true,
+      true
+    ],
+    [
+      8,
+      "Bolívia",
+      "Hospedagem",
+      "Hotel em La Paz (quarto duplo)",
+      "USD",
+      40,
+      70,
+      true,
+      true
+    ],
+    [
+      8,
+      "Bolívia",
+      "Alimentação",
+      "Comida do dia",
+      "BOB",
+      80,
+      150,
+      false,
+      true
+    ],
+    [
+      9,
+      "Bolívia",
+      "Transporte",
+      "Mi Teleférico (3 linhas)",
+      "BOB",
+      7,
+      15,
+      false,
+      false
+    ],
+    [
+      9,
+      "Bolívia",
+      "Transporte",
+      "Táxis em La Paz (por carro)",
+      "BOB",
+      30,
+      60,
+      true,
+      true
+    ],
+    [
+      9,
+      "Bolívia",
+      "Transporte",
+      "Ônibus Todo Turismo La Paz → Uyuni",
+      "USD",
+      44,
+      49,
+      false,
+      false
+    ],
+    [
+      9,
+      "Bolívia",
+      "Alimentação",
+      "Comida do dia (almoço no Popular)",
+      "BOB",
+      150,
+      260,
+      false,
+      true
+    ],
+    [
+      10,
+      "Bolívia",
+      "Ingressos e tours",
+      "Tour 3 dias Uyuni → San Pedro (jipe, guia, 2 noites, refeições)",
+      "USD",
+      210,
+      240,
+      false,
+      false
+    ],
+    [
+      10,
+      "Bolívia",
+      "Alimentação",
+      "Café da manhã em Uyuni",
+      "BOB",
+      30,
+      60,
+      false,
+      true
+    ],
+    [
+      10,
+      "Bolívia",
+      "Ingressos e tours",
+      "Isla Incahuasi",
+      "BOB",
+      30,
+      30,
+      false,
+      false
+    ],
+    [
+      10,
+      "Bolívia",
+      "Outros",
+      "Banheiros, água e lanches",
+      "BOB",
+      30,
+      60,
+      false,
+      true
+    ],
+    [
+      11,
+      "Bolívia",
+      "Ingressos e tours",
+      "Reserva Eduardo Avaroa",
+      "BOB",
+      150,
+      150,
+      false,
+      false
+    ],
+    [
+      11,
+      "Bolívia",
+      "Outros",
+      "Saco de dormir, 2 noites (opcional)",
+      "BOB",
+      0,
+      60,
+      false,
+      false
+    ],
+    [
+      11,
+      "Bolívia",
+      "Outros",
+      "Banho quente no refúgio",
+      "BOB",
+      0,
+      10,
+      false,
+      false
+    ],
+    [
+      11,
+      "Bolívia",
+      "Outros",
+      "Banheiros, água e lanches",
+      "BOB",
+      30,
+      60,
+      false,
+      true
+    ],
+    [
+      12,
+      "Bolívia",
+      "Ingressos e tours",
+      "Termas de Polques",
+      "BOB",
+      6,
+      30,
+      false,
+      false
+    ],
+    [
+      12,
+      "Bolívia",
+      "Outros",
+      "Taxa de saída em Hito Cajón (informal)",
+      "BOB",
+      0,
+      15,
+      false,
+      false
+    ],
+    [
+      12,
+      "Bolívia",
+      "Outros",
+      "Gorjeta do motorista-guia (opcional)",
+      "BOB",
+      0,
+      100,
+      false,
+      true
+    ],
+    [
+      12,
+      "Chile",
+      "Hospedagem",
+      "Hotel em San Pedro de Atacama (quarto duplo)",
+      "USD",
+      90,
+      150,
+      true,
+      true
+    ],
+    [
+      12,
+      "Chile",
+      "Alimentação",
+      "Comida do dia",
+      "CLP",
+      25000,
+      35000,
+      false,
+      false
+    ],
+    [
+      13,
+      "Chile",
+      "Transporte",
+      "Bike meio dia (opcional)",
+      "CLP",
+      0,
+      12000,
+      false,
+      true
+    ],
+    [
+      13,
+      "Chile",
+      "Ingressos e tours",
+      "Pukará de Quitor (opcional)",
+      "CLP",
+      0,
+      4000,
+      false,
+      false
+    ],
+    [
+      13,
+      "Chile",
+      "Ingressos e tours",
+      "Valle de la Luna (tour + entrada)",
+      "CLP",
+      39800,
+      45800,
+      false,
+      false
+    ],
+    [
+      13,
+      "Chile",
+      "Hospedagem",
+      "Hotel em San Pedro de Atacama (quarto duplo)",
+      "USD",
+      90,
+      150,
+      true,
+      true
+    ],
+    [
+      13,
+      "Chile",
+      "Alimentação",
+      "Comida do dia",
+      "CLP",
+      25000,
+      35000,
+      false,
+      false
+    ],
+    [
+      14,
+      "Chile",
+      "Ingressos e tours",
+      "Piedras Rojas + Lagunas + Chaxa (tour + entradas)",
+      "CLP",
+      82000,
+      84000,
+      false,
+      false
+    ],
+    [
+      14,
+      "Chile",
+      "Ingressos e tours",
+      "Tour astronômico",
+      "CLP",
+      25000,
+      45000,
+      false,
+      false
+    ],
+    [
+      14,
+      "Chile",
+      "Hospedagem",
+      "Hotel em San Pedro de Atacama (quarto duplo)",
+      "USD",
+      90,
+      150,
+      true,
+      true
+    ],
+    [
+      14,
+      "Chile",
+      "Alimentação",
+      "Comida do dia",
+      "CLP",
+      25000,
+      35000,
+      false,
+      false
+    ],
+    [
+      15,
+      "Chile",
+      "Ingressos e tours",
+      "Baltinache (tour + entrada)",
+      "CLP",
+      45000,
+      57000,
+      false,
+      false
+    ],
+    [
+      15,
+      "Chile",
+      "Outros",
+      "Lavanderia (opcional)",
+      "CLP",
+      0,
+      8000,
+      false,
+      true
+    ],
+    [
+      15,
+      "Chile",
+      "Hospedagem",
+      "Hotel em San Pedro de Atacama (quarto duplo)",
+      "USD",
+      90,
+      150,
+      true,
+      true
+    ],
+    [
+      15,
+      "Chile",
+      "Alimentação",
+      "Comida do dia (jantar de despedida)",
+      "CLP",
+      30000,
+      45000,
+      false,
+      true
+    ],
+    [
+      16,
+      "Chile",
+      "Transporte",
+      "Transfer San Pedro → Aeroporto de Calama",
+      "CLP",
+      17000,
+      22000,
+      false,
+      false
+    ],
+    [
+      16,
+      "Chile",
+      "Alimentação",
+      "Café e comida no aeroporto",
+      "CLP",
+      10000,
+      20000,
+      false,
+      true
+    ]
+  ],
+  "categorias": [
+    "Hospedagem",
+    "Transporte",
+    "Ingressos e tours",
+    "Alimentação",
+    "Outros",
+    "Voos e seguro"
+  ],
+  "compras": [
+    [
+      "Peru",
+      "Ingresso Machu Picchu (Circuito 2)",
+      "tuboleto.cultura.pe (único canal oficial)",
+      "3–4 meses antes",
+      "Online, cartão. 15 min para pagar; ingresso nominal",
+      "S/163",
+      "PEN",
+      163,
+      163,
+      "S/152 + taxa de conservação S/11 (desde mai/2026). Brasileiro paga preço cheio de estrangeiro."
+    ],
+    [
+      "Peru",
+      "Guia oficial em Machu Picchu (obrigatório)",
+      "Na entrada ou com agência em Cusco/Águas Calientes",
+      "Antes ou na hora",
+      "Dinheiro ou cartão",
+      "≈S/50–80 por pessoa em grupo (estimativa)",
+      "PEN",
+      50,
+      80,
+      "Até 10 pessoas por guia. Valor é estimativa: confirme."
+    ],
+    [
+      "Peru",
+      "Trem Ollantaytambo → Águas Calientes",
+      "perurail.com (Expedition) ou incarail.com (The Voyager)",
+      "2–3 meses antes",
+      "Online, cartão",
+      "US$55–90",
+      "USD",
+      55,
+      90,
+      "Saídas 15:37 (PeruRail) ou 16:36 (Inca Rail). Bagagem até 8 kg."
+    ],
+    [
+      "Peru",
+      "Trem Águas Calientes → Ollantaytambo (15:20)",
+      "perurail.com",
+      "2–3 meses antes",
+      "Online, cartão",
+      "US$55–90",
+      "USD",
+      55,
+      90,
+      "Chega 17:08."
+    ],
+    [
+      "Peru",
+      "Ônibus Consettur (ida e volta)",
+      "comprar.consettur.com ou guichê Av. Hermanos Ayar",
+      "Na véspera",
+      "Online ou guichê",
+      "US$24",
+      "USD",
+      24,
+      24,
+      "1º ônibus 05:30."
+    ],
+    [
+      "Peru",
+      "Boleto Turístico del Cusco (integral, 10 dias)",
+      "COSITUC, Av. El Sol 103, ou entrada dos sítios",
+      "No 1º sítio",
+      "Só dinheiro (soles)",
+      "S/130",
+      "PEN",
+      130,
+      130,
+      "Pisac, Ollantaytambo, Moray, Chinchero, Sacsayhuamán e mais 11."
+    ],
+    [
+      "Peru",
+      "Salineras de Maras",
+      "Na entrada",
+      "Na hora",
+      "Só dinheiro",
+      "S/20",
+      "PEN",
+      20,
+      20,
+      "Fora do Boleto."
+    ],
+    [
+      "Peru",
+      "Qorikancha",
+      "Na entrada",
+      "Na hora",
+      "Dinheiro",
+      "≈S/15",
+      "PEN",
+      15,
+      15,
+      "Preço 2026 não confirmado."
+    ],
+    [
+      "Peru",
+      "Catedral de Cusco",
+      "Na entrada",
+      "Na hora",
+      "Dinheiro",
+      "S/40",
+      "PEN",
+      40,
+      40,
+      "Opcional."
+    ],
+    [
+      "Peru",
+      "Ônibus noturno Cusco → Copacabana",
+      "Bolivia Hop (bushop.com) ou Terminal Terrestre",
+      "1–2 semanas (Hop) ou 2–3 dias",
+      "Online ou guichê",
+      "US$33–54",
+      "USD",
+      33,
+      54,
+      "Hop: 21:30 → Puno 05:00 → Copacabana 13:30."
+    ],
+    [
+      "Bolívia",
+      "Barco Isla del Sol (ida e volta)",
+      "Porto de Copacabana",
+      "Na véspera ou de manhã",
+      "Dinheiro (Bs)",
+      "Bs 30–50 por trecho",
+      "BOB",
+      60,
+      100,
+      "Ida 08:30; volta ≈15:30."
+    ],
+    [
+      "Bolívia",
+      "Taxas comunitárias Isla del Sol",
+      "Postos na ilha",
+      "Na hora",
+      "Dinheiro, notas pequenas",
+      "Bs 10–20 por posto",
+      "BOB",
+      10,
+      30,
+      ""
+    ],
+    [
+      "Bolívia",
+      "Ônibus Copacabana → La Paz",
+      "Guichês Plaza Sucre / Av. 6 de Agosto",
+      "Ao chegar em Copacabana",
+      "Dinheiro",
+      "Bs 30–100 + Bs 2 (Tiquina)",
+      "BOB",
+      32,
+      102,
+      "Saídas 13:30 e 18:00."
+    ],
+    [
+      "Bolívia",
+      "Mi Teleférico",
+      "Bilheteria das estações ou app Yala",
+      "Na hora",
+      "Dinheiro ou app",
+      "Bs 3 + Bs 2 por baldeação",
+      "BOB",
+      7,
+      15,
+      ""
+    ],
+    [
+      "Bolívia",
+      "Ônibus La Paz → Uyuni (Todo Turismo)",
+      "todoturismo.bo ou Pasaje Kramer 710",
+      "1–2 semanas",
+      "Online ou presencial",
+      "US$44–49",
+      "USD",
+      44,
+      49,
+      "Saída 21:00. Preço pode ter subido com o diesel."
+    ],
+    [
+      "Bolívia",
+      "Tour 3 dias Uyuni → San Pedro",
+      "Cordillera Traveller, Red Planet, Quechua Connection…",
+      "1 mês (online) ou em Uyuni",
+      "Cartão ou dinheiro",
+      "US$210–240",
+      "USD",
+      210,
+      240,
+      "Confirme: transfer até San Pedro incluído."
+    ],
+    [
+      "Bolívia",
+      "Reserva Eduardo Avaroa",
+      "Portaria (dia 2 do tour)",
+      "Na hora",
+      "Só dinheiro (Bs)",
+      "Bs 150",
+      "BOB",
+      150,
+      150,
+      ""
+    ],
+    [
+      "Bolívia",
+      "Isla Incahuasi",
+      "Portaria",
+      "Na hora",
+      "Só dinheiro (Bs)",
+      "Bs 30",
+      "BOB",
+      30,
+      30,
+      ""
+    ],
+    [
+      "Bolívia",
+      "Polques, banheiros, banho e saída",
+      "Durante o tour",
+      "Na hora",
+      "Dinheiro (Bs)",
+      "≈Bs 40–110",
+      "BOB",
+      40,
+      110,
+      "Polques Bs 6–30; banheiros Bs 5–6; banho Bs 10; saída ≈Bs 15."
+    ],
+    [
+      "Bolívia",
+      "Saco de dormir (aluguel)",
+      "Agência do tour",
+      "Na contratação",
+      "Dinheiro",
+      "≈Bs 30/dia",
+      "BOB",
+      0,
+      60,
+      "Recomendado na estação fria."
+    ],
+    [
+      "Chile",
+      "Tour Valle de la Luna + entrada",
+      "Agência (Caracoles) + valledelaluna.com",
+      "1–2 dias antes",
+      "Cartão/online",
+      "CLP 29–35 mil + 10.800",
+      "CLP",
+      39800,
+      45800,
+      "Mirante Ckari fechado."
+    ],
+    [
+      "Chile",
+      "Tour Piedras Rojas + Lagunas + entradas",
+      "Agência; entradas em socairechile.cl",
+      "2–5 dias antes",
+      "Cartão/online",
+      "≈CLP 82–84 mil com entradas",
+      "CLP",
+      82000,
+      84000,
+      "Entrada só online."
+    ],
+    [
+      "Chile",
+      "Tour astronômico",
+      "spaceobs.com, Ahlarkapin, Atacama Desert Stargazing",
+      "1–2 semanas",
+      "Online",
+      "CLP 25–45 mil",
+      "CLP",
+      25000,
+      45000,
+      "Escolha noite perto da lua nova."
+    ],
+    [
+      "Chile",
+      "Tour Baltinache + entrada",
+      "Agência (Caracoles)",
+      "1–3 dias antes",
+      "Cartão + entrada em dinheiro",
+      "CLP 39–45 mil + 6–12 mil",
+      "CLP",
+      45000,
+      57000,
+      "Entrada só em dinheiro."
+    ],
+    [
+      "Chile",
+      "Transfer San Pedro → Aeroporto de Calama",
+      "Nomades, GreatChile, Atacama Infinity",
+      "3+ dias antes",
+      "Online",
+      "CLP 17–22 mil",
+      "CLP",
+      17000,
+      22000,
+      "Pega 3–3,5 h antes do voo."
+    ],
+    [
+      "Chile",
+      "Declaração SAG (entrada no Chile)",
+      "ingresoachile.cl ou papel na fronteira",
+      "1 dia antes",
+      "Grátis",
+      "Grátis",
+      "CLP",
+      0,
+      0,
+      "Obrigatória."
+    ],
+    [
+      "Geral",
+      "Voos multidestino",
+      "Google Flights ou sites das companhias (LATAM, Sky, JetSMART)",
+      "3–5 meses antes",
+      "Cartão",
+      "≈R$3.000–5.500 (estimativa)",
+      "BRL",
+      3000,
+      5500,
+      "Chegada em Cusco (via Lima); volta Calama → Santiago → Brasil, saindo à tarde."
+    ],
+    [
+      "Geral",
+      "Seguro viagem",
+      "Seguradora de sua escolha",
+      "Junto com o voo",
+      "Cartão",
+      "≈R$200–450 (estimativa)",
+      "BRL",
+      200,
+      450,
+      "Precisa cobrir altitude e atividades de aventura."
+    ],
+    [
+      "Geral",
+      "Chip ou eSIM regional",
+      "Apps de eSIM (cobertura Peru, Bolívia e Chile)",
+      "1 semana antes",
+      "Cartão",
+      "≈US$20–40 (estimativa)",
+      "USD",
+      20,
+      40,
+      "No Uyuni não há sinal."
+    ],
+    [
+      "Geral",
+      "Vacina de febre amarela + certificado (CIVP)",
+      "Posto de saúde (SUS); certificado emitido pelo gov.br",
+      "Pelo menos 10 dias antes",
+      "Grátis",
+      "Grátis",
+      "BRL",
+      0,
+      0,
+      "A Bolívia exige de quem vem do Brasil ou do Peru."
+    ],
+    [
+      "Geral",
+      "Hotéis de todas as cidades",
+      "Booking ou direto com o hotel (veja a aba Hospedagem)",
+      "1 mês antes (alta temporada: antes)",
+      "Cartão",
+      "US$30–150 por noite",
+      "USD",
+      30,
+      150,
+      "Prefira tarifa com cancelamento grátis por causa dos riscos na Bolívia."
+    ]
+  ],
+  "hoteis": [
+    [
+      "Ollantaytambo",
+      "Peru",
+      "Noites 1 e 2",
+      "Perto da Plaza de Armas ou da estação de trem",
+      "Tudo a pé; o trem do Dia 3 sai a 10 min",
+      50,
+      80,
+      "El Albergue (dentro da estação)",
+      "Ollantaytambo"
+    ],
+    [
+      "Águas Calientes",
+      "Peru",
+      "Noite 3",
+      "Perto da Av. Pachacútec ou da Av. Hermanos Ayar",
+      "Fila do ônibus de Machu Picchu às 04:30",
+      60,
+      100,
+      "—",
+      "Aguas Calientes Machu Picchu"
+    ],
+    [
+      "Cusco",
+      "Peru",
+      "Noites 4 e 5",
+      "Centro histórico ou San Blas (evite ladeiras longas)",
+      "Tudo a pé; ruas movimentadas à noite",
+      50,
+      80,
+      "—",
+      "Cusco centro historico"
+    ],
+    [
+      "Copacabana",
+      "Bolívia",
+      "Noite 7",
+      "Perto da Av. 6 de Agosto ou da orla",
+      "Porto e ônibus a pé",
+      30,
+      50,
+      "—",
+      "Copacabana Bolivia"
+    ],
+    [
+      "La Paz",
+      "Bolívia",
+      "Noite 8",
+      "Centro (perto da Sagárnaga) ou Sopocachi",
+      "Perto do teleférico e da Todo Turismo",
+      40,
+      70,
+      "—",
+      "La Paz Bolivia centro"
+    ],
+    [
+      "San Pedro de Atacama",
+      "Chile",
+      "Noites 12 a 15",
+      "Centro, até 10 min a pé da Calle Caracoles",
+      "Agências buscam no hotel; à noite as ruas são escuras",
+      90,
+      150,
+      "Hotel Kimal (esquina da Caracoles)",
+      "San Pedro de Atacama"
+    ]
+  ],
+  "docs": [
+    "RG físico (emitido há menos de 10 anos, em bom estado), CIN física ou passaporte. Recomendo passaporte: o ingresso de Machu Picchu fica vinculado ao documento.",
+    "Certificado Internacional de Vacinação de febre amarela (CIVP): a Bolívia exige de quem vem do Brasil ou do Peru. Tome a vacina pelo menos 10 dias antes.",
+    "Seguro viagem com cobertura para altitude e atividades de aventura.",
+    "Comprovante de entrada na Bolívia: guarde até a saída em Hito Cajón.",
+    "Prints offline de ingressos, passagens e reservas (o sinal some no Uyuni)."
+  ],
+  "antes": [
+    [
+      "Já (3–4 meses antes)",
+      [
+        "Ingresso de Machu Picchu em tuboleto.cultura.pe",
+        "Trens PeruRail / Inca Rail",
+        "Voos multidestino: chegada em Cusco, volta saindo de Calama à tarde",
+        "Vacina de febre amarela e seguro"
+      ]
+    ],
+    [
+      "1 mês antes",
+      [
+        "Tour do Uyuni terminando em San Pedro",
+        "Ônibus Todo Turismo La Paz → Uyuni",
+        "Hotéis (Ollantaytambo, Águas Calientes, Cusco, Copacabana, La Paz, San Pedro)"
+      ]
+    ],
+    [
+      "1–2 semanas antes",
+      [
+        "Bolivia Hop / ônibus Cusco → Copacabana",
+        "Tour astronômico (perto da lua nova)",
+        "Transfer San Pedro → Calama",
+        "Baixar Google Maps offline de Cusco, Vale Sagrado, Copacabana, La Paz, Uyuni e San Pedro"
+      ]
+    ],
+    [
+      "Na hora",
+      [
+        "Boleto Turístico, Maras e Qorikancha (dinheiro)",
+        "Barco para Isla del Sol e ônibus para La Paz",
+        "Tours do Atacama na Calle Caracoles (fora da alta temporada)"
+      ]
+    ]
+  ],
+  "epocas": [
+    [
+      "Dez–Mar",
+      "Chuvas",
+      "Efeito espelho no Uyuni, mas a Incahuasi pode ficar isolada; Machu Picchu com nuvens; trens PeruRail de Cusco viram ônibus+trem (jan–abr); 'inverno altiplânico' cancela passeios altos no Atacama."
+    ],
+    [
+      "Abr–Mai",
+      "Recomendado",
+      "Fim das chuvas, paisagem verde, menos gente. No começo de abril ainda pode ter espelho no Uyuni."
+    ],
+    [
+      "Jun–Ago",
+      "Frio e lotado",
+      "Céu limpo, mas noites de −15 °C ou menos no Uyuni; neve fecha a Reserva Avaroa e passos de fronteira. Machu Picchu esgota meses antes."
+    ],
+    [
+      "Set–Nov",
+      "Recomendado",
+      "Seco, menos frio que o inverno, ótimo para estrelas. Machu Picchu ainda em alta temporada até 2/nov: compre cedo."
+    ]
+  ],
+  "fusos": [
+    [
+      "Brasil (Brasília)",
+      "UTC−3",
+      "—"
+    ],
+    [
+      "Peru",
+      "UTC−5",
+      "2 h a menos que Brasília"
+    ],
+    [
+      "Bolívia",
+      "UTC−4",
+      "Ao entrar vindo do Peru: adiante 1 h"
+    ],
+    [
+      "Chile (San Pedro)",
+      "UTC−3 de set a abr · UTC−4 de abr a set",
+      "Vindo da Bolívia: +1 h (set–abr) ou igual (abr–set)"
+    ]
+  ],
+  "dinheiro": [
+    [
+      "Peru",
+      "Sol (S/)",
+      "S/1 ≈ R$1,51",
+      "Leve dólares para trocar na Av. El Sol. Saque sem tarifa no Banco de la Nación (máx. S/400). Cartão funciona em restaurantes de Cusco.",
+      "Boleto Turístico, Maras, mercados, táxis, banheiros"
+    ],
+    [
+      "Bolívia",
+      "Boliviano (Bs)",
+      "Bs 1 ≈ R$0,43 (≈Bs 12 por dólar)",
+      "Câmbio flutuante desde jun/2026: cartão e saque pagam taxa de mercado. Wise e Nomad funcionam (BNB, Mercantil, BCP…). Sempre escolha cobrar em Bs. Leve dólares novos e sem rasgo como reserva.",
+      "Barco, taxas da ilha, ônibus, taxas do Uyuni (≈Bs 300)"
+    ],
+    [
+      "Chile",
+      "Peso (CLP)",
+      "CLP 1.000 ≈ R$5,29",
+      "San Pedro tem só ≈4 caixas (BCI e BancoEstado) com fila. Câmbio na Calle Toconao. Cartão aceito na maioria dos lugares.",
+      "Baltinache, Tebinquinche, Arcoíris, gorjetas"
+    ]
+  ],
+  "emergencia": [
+    [
+      "Peru",
+      "Polícia 105"
+    ],
+    [
+      "Bolívia",
+      "Polícia 110"
+    ],
+    [
+      "Chile",
+      "Carabineros 133 · Ambulância 131"
+    ]
+  ],
+  "apps": [
+    [
+      "Google Maps offline",
+      "Baixe as áreas antes; no Uyuni não há sinal."
+    ],
+    [
+      "Uber, Cabify, InDrive",
+      "Funcionam em Cusco, inclusive no aeroporto."
+    ],
+    [
+      "Yango",
+      "Táxi por app em La Paz, a partir de Bs 6."
+    ],
+    [
+      "Yala",
+      "Pagamento do teleférico de La Paz (opcional)."
+    ],
+    [
+      "WhatsApp",
+      "Agências e hotéis atendem por lá."
+    ]
+  ],
+  "saude": [
+    "Suba devagar, beba 2–3 L de água por dia e evite álcool nos primeiros dias.",
+    "Chá de coca ajuda no Peru e na Bolívia, mas é proibido levar coca para o Chile.",
+    "Sorojchi Pills vende em farmácias de Cusco e La Paz. Acetazolamida só com orientação do seu médico.",
+    "Dor de cabeça que não passa, vômito, confusão ou falta de ar em repouso: desça e procure atendimento."
+  ],
+  "mala": [
+    [
+      "Documentos",
+      [
+        "Passaporte ou RG/CIN física",
+        "Certificado de febre amarela (CIVP)",
+        "Seguro viagem impresso",
+        "Cartões Wise/Nomad + 1 cartão reserva",
+        "Dólares em notas novas"
+      ]
+    ],
+    [
+      "Frio extremo (Uyuni e madrugadas)",
+      [
+        "Segunda pele (calça e blusa)",
+        "Jaqueta de pluma",
+        "Fleece",
+        "Luvas, gorro e cachecol",
+        "Meias térmicas grossas"
+      ]
+    ],
+    [
+      "Dia a dia",
+      [
+        "Bota de trilha amaciada",
+        "Corta-vento impermeável",
+        "Mochila de ataque 15–20 L",
+        "Roupa de banho e chinelo",
+        "Toalha de secagem rápida"
+      ]
+    ],
+    [
+      "Saúde e sol",
+      [
+        "Protetor FPS 50+ e labial",
+        "Óculos de sol polarizados",
+        "Repelente (Águas Calientes)",
+        "Remédios: dor, estômago, altitude (fale com seu médico sobre acetazolamida)",
+        "Soro fisiológico ou gel nasal"
+      ]
+    ],
+    [
+      "Equipamento",
+      [
+        "Powerbank",
+        "Adaptador universal",
+        "Garrafa de 1,5–2 L",
+        "Papel higiênico e lenços umedecidos",
+        "Lanterna de cabeça"
+      ]
+    ]
+  ],
+  "mudancas": [
+    [
+      "Aclimatação",
+      "Você começava dormindo em Cusco (3.399 m). Agora desce no mesmo dia para Ollantaytambo (2.792 m) e só volta a Cusco depois de Machu Picchu."
+    ],
+    [
+      "Vale Sagrado",
+      "Acabou o vai-e-vem: os 2 tours de van saindo de Cusco viraram 2 dias saindo de Ollantaytambo, de onde parte o trem."
+    ],
+    [
+      "Cusco → Copacabana",
+      "O ônibus diurno 06:30 → 17:00 não é uma linha direta confiável. Trocado pelo noturno: economiza 1 diária e você chega às 13:30."
+    ],
+    [
+      "Cusco x La Paz",
+      "Cusco ganhou 1 dia e La Paz ficou com 1 dia cheio. Cusco tem mais para ver; La Paz cabe em um dia bem usado."
+    ],
+    [
+      "Machu Picchu",
+      "Ingresso agora S/163, guia obrigatório, compra em 15 min e nominal. Trem aceita até 8 kg, não 5 kg."
+    ],
+    [
+      "Câmbio na Bolívia",
+      "O boliviano flutua desde 29/06/2026 (≈Bs 12 por dólar). A planilha usava Bs 1 = R$0,75; hoje é ≈R$0,43. Preços locais subiram com o diesel."
+    ],
+    [
+      "Todo Turismo",
+      "Sai às 21:00 do escritório próprio (Pasaje Kramer 710), não do terminal, e custa US$44–49."
+    ],
+    [
+      "Atacama",
+      "Tatio trocado por Piedras Rojas (você já vê gêiseres no Uyuni). Astronomia perto da lua nova. Baltinache à tarde, com a manhã como folga."
+    ],
+    [
+      "Fronteira do Chile",
+      "Controle no complexo Hito Cajón. Proibido entrar com coca; declarar comida ao SAG. Relógio +1 h de set a abr."
+    ],
+    [
+      "Fusos",
+      "Peru UTC−5, Bolívia UTC−4, Chile UTC−3 (set–abr) ou UTC−4 (abr–set). A planilha não considerava."
+    ],
+    [
+      "Voo de volta",
+      "Calama não tem voo internacional: conexão em Santiago. Escolha voo à tarde."
+    ],
+    [
+      "Margem de segurança",
+      "Os dias no Atacama servem de folga se a Bolívia atrasar (bloqueios, falta de combustível). Não pague todos os tours do Atacama antes sem cancelamento flexível."
+    ]
+  ],
+  "manter": [
+    "Ordem Peru → Bolívia → Chile: a altitude sobe aos poucos e termina no ponto mais baixo.",
+    "Uyuni no sentido Uyuni → San Pedro: o inverso sobe de 2.400 m para 4.900 m em um dia.",
+    "Dormir em Águas Calientes antes de Machu Picchu: você entra no primeiro horário.",
+    "Checklist de roupas, óculos polarizados, protetor e certificado de febre amarela."
+  ],
+  "alertas": [
+    [
+      "Trens para Machu Picchu",
+      "Em 2/out/2026 um trem da Inca Rail e um da PeruRail colidiram perto de Pampacahua (sem feridos). A circulação foi suspensa e retomada aos poucos. Antes de comprar, veja perurail.com.",
+      "https://www.perurail.com/es/comunicados/aviso-de-servicio-2-octubre-2026"
+    ],
+    [
+      "Novo sistema de ingressos de Machu Picchu",
+      "Desde 22/set/2026: 15 minutos para pagar e ingresso nominal (fase de teste até 21/out).",
+      "https://www.riotimesonline.com/machu-picchu-tickets-new-rules-2026/"
+    ],
+    [
+      "Bolívia instável",
+      "Estado de emergência prorrogado até ≈meados de dez/2026; sindicatos ameaçam bloqueios pelo preço do diesel. Uyuni ficou sem gasolina de 21 a 24/set e tours foram cancelados. Consulte transitabilidad.abc.gob.bo.",
+      "https://transitabilidad.abc.gob.bo/"
+    ],
+    [
+      "Neve na Reserva Eduardo Avaroa",
+      "A reserva fechou por neve em agosto e em 19/set/2026. Tenha folga no roteiro.",
+      "https://radiokollasuyo.bo/2026/09/19/suspenden-el-ingreso-a-la-reserva-eduardo-avaroa-y-ordenan-la-evacuacion-de-visitantes-por-intensas-nevadas/"
+    ],
+    [
+      "Valle de la Luna",
+      "Mirante Ckari fechado desde 27/mai/2026; o vale fechou nas terças de outubro/2026.",
+      "https://valledelaluna.com/"
+    ]
+  ],
+  "fontes": [
+    [
+      "Tarifas Machu Picchu 2026 (Infobae)",
+      "https://www.infobae.com/peru/2026/02/09/suben-tarifas-de-ingreso-a-machu-picchu-desde-cuando-rige-y-cuanto-costara-entrar-en-2026/"
+    ],
+    [
+      "Aviso PeruRail 2/out/2026",
+      "https://www.perurail.com/es/comunicados/aviso-de-servicio-2-octubre-2026"
+    ],
+    [
+      "Horários PeruRail",
+      "https://www.perurail.com/train-schedules-and-frequencies/"
+    ],
+    [
+      "Bagagem PeruRail",
+      "https://www.perurail.com/luggage/"
+    ],
+    [
+      "Ônibus Consettur 2026 (Infobae)",
+      "https://www.infobae.com/peru/2026/09/23/machu-picchu-relanzan-licitacion-de-buses-en-ruta-hiram-bingham-tras-quejas-de-mas-de-40-empresas-de-transporte/"
+    ],
+    [
+      "Boleto Turístico (COSITUC)",
+      "https://cosituccusco.pe/"
+    ],
+    [
+      "Casas de câmbio Cusco",
+      "https://www.global66.com/pe/casa-de-cambio/cusco/"
+    ],
+    [
+      "Cusco → Copacabana (Bolivia Hop)",
+      "https://bushop.com/bolivia/passes/cusco-to-copacabana-via-puno/"
+    ],
+    [
+      "Câmbio oficial Bolívia (BCB)",
+      "https://www.bcb.gob.bo/librerias/indicadores/otras/ultimo.php"
+    ],
+    [
+      "Bolívia: câmbio flutuante",
+      "https://www.riotimesonline.com/bolivia-floating-dollar-past-11-bolivianos-imf-2026/"
+    ],
+    [
+      "Falta de gasolina em Uyuni",
+      "https://radiokollasuyo.bo/2026/09/24/turismo-de-uyuni-marcha-por-falta-de-gasolina-y-reporta-cancelaciones/"
+    ],
+    [
+      "Estradas da Bolívia (ABC)",
+      "https://transitabilidad.abc.gob.bo/"
+    ],
+    [
+      "Mi Teleférico: tarifas",
+      "https://lapazteleferico.com/en/fares-and-tickets/"
+    ],
+    [
+      "Todo Turismo",
+      "https://todoturismo.bo/en/"
+    ],
+    [
+      "Tour Uyuni → San Pedro (Cordillera Traveller)",
+      "https://cordilleratraveller.com/en/tour-from-uyuni-ending-in-san-pedro-chile/"
+    ],
+    [
+      "Hito Cajón (pasos fronterizos)",
+      "https://www.pasosfronterizos.gov.cl/complejos-fronterizos/antofagasta/paso-hito-cajon/"
+    ],
+    [
+      "Declaração SAG",
+      "https://www.sag.gob.cl/tramites/declaracion-jurada-sag-sobre-ingreso-de-productos-de-origen-vegetal-o-animal-chile"
+    ],
+    [
+      "Valle de la Luna",
+      "https://valledelaluna.com/"
+    ],
+    [
+      "Tatio: tarifas",
+      "https://eltatio.net/tarifas-geysers-del-tatio/"
+    ],
+    [
+      "Socaire (Piedras Rojas)",
+      "https://socairechile.cl/"
+    ],
+    [
+      "Laguna Cejar",
+      "https://lagunacejar.com/en/"
+    ],
+    [
+      "Caixas em San Pedro",
+      "https://sanpedroatacama.com/en/destination/useful-information/how-to-pay-in-san-pedro/"
+    ],
+    [
+      "Horário de verão no Chile 2026",
+      "https://www.24horas.cl/te-sirve/cambio-de-hora/horario-de-verano-2026-esta-es-la-fecha-en-que-se-adelantan-los-relojes"
+    ],
+    [
+      "Entrar na Bolívia (Mochileiros)",
+      "https://www.mochileiros.com/blog/entrar-na-bolivia"
+    ],
+    [
+      "Câmbio do dia (open.er-api.com)",
+      "https://open.er-api.com/v6/latest/BRL"
+    ],
+    [
+      "Fotos: Wikipedia e Wikimedia Commons",
+      "https://commons.wikimedia.org/"
+    ]
+  ]
+}
